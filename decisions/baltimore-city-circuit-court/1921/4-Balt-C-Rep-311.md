@@ -1,0 +1,36 @@
+---
+court: "Baltimore City Circuit Court"
+decided: "1921-07-09"
+citations: ["4 Balt. C. Rep. 311"]
+reporter: "balt-c-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NORTHWEST REAL ESTATE CO. VS. WELLER."]
+source_url: "https://static.case.law/balt-c-rep/4/cases/0311-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2009971
+---
+
+# Northwest Real Estate Co. v. Weller
+
+## Majority (DAWKINS, J.)
+
+DAWKINS, J.
+(The Court) Gentlemen: The equity courts should try to deal justly and fairly with all parties to the case. There are really only two questions here, i. e., whether or not the plans submitted were approved and whether or not they were handed by Mr. Morris to tlie young man to file and hand over to the defendant with conditions. The young man Smith says he did file them and lie told Mr. Forsythe that he had to see Mr. Johnson to get the lay-out of the building and Mr. Johnson both agreed that they did go to the lot for the latter purpose.
+I do not think notwithstanding the interesting discussion on the subject that the authority of the office boy is liarticularly involved in this case. If we believe Mr. Smith, that he did receive these plans from Mr. Morris, that he did put the stamp on them, even without express authority, and he did deliver them to Mr. Forsythe tolling him he had to see Mr. Johnson, before planning the building and that Mr. Forsythe did see Mi'. Johnson, it would make very little difference whether or not the stamping was done with authority.
+Tlie serious question is whether or not the lay-out of the building is a correct and fair one and the whole relief demanded by tlie plaintiff should be shown to he the only reasonable thing to do.
+Mr. Johnson’s position was perfectly understood at the start. Mr. Weller had a right, to rely, it seems to me, on (he plans he received from the company through its representation in the office.
+A company handling' six hundred lots, as they say they were doing” in that development and dealing with Mr. Forsythe as admitted, neither Mr. Forsythe nor anybody else should he required to say how much authority that hoy had.
+Mr. Weller had a right to rely, as he did do, on those plans that were turned over to him. on which he got his permit to build and proceeded to build.
+Notwithstanding that is true in this particular ease, I have gone over the testimony again and again and I do not find that any serious damage lias been done to anybody. I do not believe that, the company probably would have thought its general scheme in regard to the six hundred lot li oldens had been seriously disturbed had il not been for Mr. Magers who is the only one who is hurt complaining (o it.
+Nobody thought the plan of development could possibly be injured by that garage being put down in the corner ten feet away or that any lot, holder could possibly have been disturbed except Mr. Magers.
+Even if lie is the only one hurt, it seems to me he is entitled to protection for the building he has erected. Whether the company is injured or not Mr. Magers is entitled, although not a party to the case, and through him. tlie company is entitled to have the requirements of these covenants and conditions in the conveyance strictly complied with by all lot holders.
+Whether the cost is material or not, to right the wrong if Mr. Magers is injured by the location of the garage tlie mistake can be easily corrected. If a mistake had been made, and I think it has, from the evidence, regarding Mr. Magers as the injured party, he has not been accorded, under the covenants of the deeds the protection he is entitled to receive even though the company has acted negligently — so that standing alone, it does not seem to me would he entitled to very much consideration.
+1 have reached this conclusion, gentlemen, and I hope you will understand the reasons I am suggesting. I am regarding it now as a mistake that tlie garage should not have been placed in front of Mr. Hagers’ sun parlor, whether the company acted quickly or promptly — Hr. Hagers called its attention and the attention of the defentlanto to it and the company acted promptly and endeavored to correct the error in location.
+Whether the company had inadvertently allowed the plans to be delivered to defendant and lie had gone and gotten the permit to erect the house, at the present moment, nobody is seriously injured so as I think the company is bound to protect Mr. Hagers. I am going to say this: I will put you on terms, since the plaintiff is entitled to tlie relief it seeks to protect the other lot holders — the location being a mistake, even though Mr. Weller had the right to rely on the plans he had gotten, that it is not too late to correct it. I think the plaintiff ought to pay all the expense to which the defendant has -been subjected and such are the terms I think it fair to impose. The plaintiff lias put the defendant in the position to do whatever he has done so that tlie relief will be granted, on condition that the plaintiff puts the defendant in the position lie was before there was any suggestion of change, the plaintiff to pay whatever expense has been incurred in excavating and changing the plans of the building, if necessary to be changed (I do not gather from the testimony of Mr. Forsythe that that would be a very expensive proposition for it would be only a change in the location of the steps of the dwelling) and the costs.
+(Mr. Merriken) We have to change the whole building, which is almost one-third constructed now.
+(Tlie Court) Well, that is my idea. If I am wrong, either side can have it reviewed.
+My idea is that the company should not have put the defendant to the expense, so that Mr. Weller ought to bo reimbursed for any expenses caused by its act. You should agree on- the proper amount, the witness Johnson said, testifying for the plaintiff, that it would be twenty to twenty-five dollars ; on the other hand, Mr. Forsythe has said something about changing the plans costing hut a small sum.
+If the defendant has continued the building of tlie bouse after suit was brought it does not seem to be fair to ask th-e plaintiff to pay for that, because the defendant took that chance; but it seems that any proper expense that has been incurred prior to this suit on account of the erection of this building in pursuance of the plans delivered to him and that after which he procured his permit that the company ought to pay that.
+(Hr. Merriken) Do I understand your Honor to rule that the company is to reimburse us for tlie. work that has been done up to the time the injunction was granted?
+(The Court) I think the plaintiff ought to pay the defendant whatever expenses he incurred from the time lie gave him the notice of desiring to change the plans. I understand, the testimony is, that the only building in controversy, everything else having been accepted and approved of. is the garage. I -do not know anything about the “architectural embarrassment” suggested by 'counsel but if I owned tlie lot it might be better to have tlie garage in the corner of the lot rather than where it was started except for the expense of the run-way.
