@@ -1,0 +1,27 @@
+---
+court: "Baltimore City Orphans' Court"
+decided: "1892-01-25"
+citations: ["1 Balt. C. Rep. 236"]
+reporter: "balt-c-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN THE MATTER OF THE ESTATE OF JENNIE P. BARTON AND JUSTINA G. BARTON, WARDS."]
+source_url: "https://static.case.law/balt-c-rep/1/cases/0236-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2003455
+---
+
+# In re the Estate of Barton
+
+## Majority (LINDSAY, GANS and EDWARDS, J. J.)
+
+LINDSAY, GANS and EDWARDS, J. J.
+This is a case of exceptions to the final ratification of the sale by the purchaser, Theodore Barton, of a house and lot, No. 2200, on comer of Lombard street and Collington avenue, this city, upon the ground that the said property was sold to him by the guardian of said wards, Jennie C. Carbell, as leasehold property subject to a ground rent of $56, whereas it was found on examination that the said $56 was in fact a sub-rent, and that the said property, along with the balance of the lot of which it was a part, is subject to an original rent of $181.50, and therefore the purchaser prays that this court will not ratify the sale.
+The testimony was taken on both sides, after which the case was carefully argued by the respective counsel before the court.
+The respondents concede that the $56 rent arising out of the property in question is a sub-rent, and that this specific lot is subject, like the other specific lots which are only parts of the whole lot, to the original rent of $181.50; but they claim that the purchaser, when he bought the specific lot in question, had either actual or such constructive knowledge of the true nature and title of the property as will in law prevent him from escaping the obligation of his contract of purchase.
+The law binding a man to his purchase is, we think, sufficiently clear, and we are equally clear in the conviction that the facts in this case will fully sustain the law in holding the purchaser to his contract.
+It would seem from the evidence that the sale in this case was not made from any description of the property setting forth its peculiarity of title; that in fact nothing was said of the title, but that only the number 2200 connected with the corner location where the property was situated, were indicated: and this itself would seem to be sufficient, to a person who had not previously satisfied his mind as to its title, to lead him to inquiry concerning it. But the evidence in this case shows that the purchaser had prevously thought of the matter, for he had, previous to the actual sale, signed and sealed a contract to pur- • chase it. offering the specific sum of $1,800 in cash for the house, described in the same way as when it was sold, that is, “the house northeast corner of Lombard street and Collington avenue, subject to the approval of the Orphans’ Court.” not saying a word as to title, implying, we think, very strongly that he had already satisfied himself as to its title, or made up his mind to run whatever risk there might be in buying without knowing. At least there is here, in either or both these cases, a silence respecting the title to the property, which the law says is sufficient to put any ordinarily intelligent man upon inquiry, or to bind him to all the facts which such inquiry would, if properly pursued, discover to him. It is certainly hard, as it ought to be, in this attitude of the law and in the face of facts like these, for a man to free himself from the obligation of his own deliberate and solemn acts in the purchase of property.
+But: the evidence goes even farther than this, and shows a carefully prepared letter by the attorney of the respondent, who was then the attorney of th(> purchaser, describing minutely all the peculiarities of the titles to the several specific lots included in the general lot, under which they were all subject, to the original ground rents, at the close of which he asked this same purchaser of one of these specific lots previously bought or about to be bought by him, whether — in view of the facts he there sets out — he was satisfied with the purchase and title? His answer was: “Title accei>ted,” with his signature thereto attached.
+True, there is some discrepancy as to whore and the circumstances under which this i>aper was signed by the present purchaser, which we think is of comparatively small importance. That, he actually did sign this paper — ■ setting, out a title precisely like the present one, and connected with the present one under the same original ground rent, which fact under the circumstances he could hardly help but know — is a fact which is undisputed; and this fact, connected with all other facts in the case, constrains the conviction in the court that the purchaser cannot properly be released from the obligation of his own voluntary and solemn act. Clearly, if he did not in fact understand the nature of the title of the property he purchased; he ought to have known, and in the eyes of the law did know enough to put him on inquiry by which, if honestly pursued, he would have known the whole perfectly.
+With these views, we are constrained to say that we find no sufficient reason to release the purchaser in this case from his own deliberate and solemn contract by refusing finally to ratify the sale.
+It is therefore ordered and decreed, this 23d day of January, 1892, that the exceptions to the ratification of the sale be and the same are hereby disomissed with costs.
