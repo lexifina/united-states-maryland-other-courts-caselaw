@@ -1,0 +1,31 @@
+---
+court: "Baltimore City Superior Court"
+decided: "1915-08-14"
+citations: ["3 Balt. C. Rep. 368"]
+reporter: "balt-c-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE COUNTY COMMISSIONERS OF ALLEGANY COUNTY VS. ARTHUR P. HERRING, SECRETARY OF THE STATE LUNACY COMMISSION OF THE STATE OF MARYLAND."]
+source_url: "https://static.case.law/balt-c-rep/3/cases/0368-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2007940
+---
+
+# County Commissioners v. Herring
+
+## Majority (DAWKINS, J.—)
+
+DAWKINS, J.—
+This is a petition asking for the writ of mandamus to issue to compel the defendant, the Secretary of the State Lunacy Commission of the State of Maryland, to approve a statement submitted of certain monies alleged to be due to the plaintiff for maintaining its indigent insane in accordance with Chapter 778, Acts of Assembly of Maryland, 1914 Session. The demurrer is understood to be regarded as answer by agreement of counsel at the .trial table.
+It presents a rather narrow question. Allegany county apparently having a private institution for the insane and wishing to help its unfortunates in its own midst, took care of them at its own expense, as has been done by most of the counties and cities of the State prior to the Act of 1910. Then realizing no doubt that it was paying more for this purpose than the other counties, it had the Act referred to passed in 1914, but continued to limit the inmates of the institution to residents of said county. The petitioner states that the “Institution is owned and conducted by the plaintiff for the treatment of insane.” There is no suggestion that by any act that it has become a State institution. The Montevue Hospital referred to in the argument is in effect a State institution, and therefore not the same as this. The status of Montevue Hospital being unquestionably fixed as a State institution by Chapter 582, Acts of 1912, in which it is stated that the hospital is being paid for 200 dependent insane persons of Maryland, which were charged to the State of Maryland, by the provisions of Chapter 435, of the Acts of 1908.
+Should the State maintain a private institution for this class of unfortunates for Allegany county alone? Can it b.e said that the State should do more than reimburse the county for any loss or deficiency in maintaining its indigent insane?
+It would seem unfair on first considering the question that Allegany county should have to spend more money on this class of people than any other county, but on the other hand it would not appear right for the State to pay for the upkeep of a private institution without having anything to say as to its management, expense of maintenance, etc. Nor would it seem that the State would be justified in providing a different treatment for the insane of Allegany county from that provided for those similarly afflicted in any other county of the State.
+The Act under discussion provides as follows:
+Acts of 1914, Chapter 778. — An Act to appropriate certain sums of money to the County Commissioners of Allegany County, Maryland, for the support and maintenance at Sylvan Retreat of dependent insane persons of Maryland, to meet the difference between the amount paid by the Counties of Maryland and the actual costs of supporting and maintaining such persons at said asylum.
+Section 1 provides that it shall be the duty of the Commissioners of Allegany County to keep account of all monies received and disbursed for support and maintenance of dependent insane persons of Maryland in their charge at Sylvan Retreat and at the end of years 1914 and 1915 shall prepare a complete statement setting forth in detail all monies received and disbursed there for which shall be submittecl to tlie Secretary of tlie Lunacy Commission and upon Ills approval of tlie same and it shall appear that there is a deficiency between the amount paid by Allegany county and the other counties of Maryland and the actual costs of maintaining such persons the said deficiency shall be reimbursed by the State.
+Section 2. Appropriates $10,000.00 for 1914 and 1915 each to the County Commissioners of Allegany County to pay for any and all deficiencies arising from the support and maintenance of dependent insane persons approved and ascertained as provided in Section 1, upon production of the required approval and certification of the correctness of the account.
+There is nothing in the Act that fixes any sum as a basis of payment for each patient maintained. The account filed with the petition does not show any real deficiency paid by the County for the maintenance of its patients.
+In view of what has been said the Court should not attempt to read into the Act matter upon which it is silent. The title clearly indicates that Allegany is to be reimbursed for cost of maintaining persons from other Counties, and the body of the Act provides that Allegany County shall be reimbursed for the actual cost of “Maintaining such persons” if there be a deficiency between the amounts paid by Allegany County and the other Counties of the State.
+The Act does not in any way refer to Article 59 of the Code which provides for the transfer of the dependent insane to State Hospitals and who when once removed thereto shall be maintained at the expense of the State, and provides that the County of which the patient is a resident shall be charged $100.00 and which provides also the method of collecting the last named sum in the event of the failure of the County or City to levy for the payment of the same.
+If by the views I have expressed the plaintiff is placed in the awkward position of being unable to get the benefit of this legislation which was intended to carry out the theory advanced by counsel, or if it should be placed in the position of paying more for one part of its insane patients than for another, the remedy would be simpie by either having this Sylvan Retreat Institution turned over to the State or having the County place its patients in a present State Institution so that Allegany County would be on a footing similar to that of the other counties of tlie State.
+Adhering to the views above expressed, the Petition will be dismissed and tlie Writ refused.
