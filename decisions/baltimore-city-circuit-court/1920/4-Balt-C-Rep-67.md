@@ -1,0 +1,38 @@
+---
+court: "Baltimore City Circuit Court"
+decided: "1920-07-24"
+citations: ["4 Balt. C. Rep. 67"]
+reporter: "balt-c-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM FULD VS. ISAAC FULD."]
+source_url: "https://static.case.law/balt-c-rep/4/cases/0067-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2010033
+---
+
+# Fuld v. Fuld
+
+## Majority (DAWKINS, J.)
+
+DAWKINS, J.
+This is a part of what would seem to be a most unfortunate litigation between two brothers going on in this court and in the Circuit Court of Baltimore City.
+The bill of complaint in this case was filed on December 3, 1901, about nineteen years ago. That bill set up an agreement dated March 20, 1900, between the parties hereto to become partners in iha manufacturing and selling of games known as “Ouija,” etc., (save for certain royalties which were to belong to the plaintiff) the profits from the business to be conducted were to be equally divided. The plaintiff said that the agreement was verbally terminated in April, 1901. It was alleged that the defendant was to keep the books, which said books he refused to allow the plaintiff to inspect. The plaintiff said that large profits had been made and concealed by the defendant. In addition to this the plaintiff had advanced large sums of money for which he was entitled to receive credit on his account. The plaintiff further claimed the ownership and exclusive right to manufacture and sell “Ouija” and other games. Without the knowledge or consent of the plaintiff the defendant had used and sold the said articles and appropriated to his own use the profits therefrom arising.
+The prayer of this bill was for a discovery and accounting and for an injunction preventing the defendant from making, using or vending said articles, and for the appointment of a receiver.
+The defendant answered this bill in due course admitting the agreement of copartnership, but with certain modifications and averring that there was no such dissolution as alleged. He said that the books were delivered to the plaintiff and that he, the defendant, had not since seen them, but that the said books would show a balance due the defendant, or but a small balance due to either, if anything.
+On December 3, 1901, the court (Judge Dennis) appointed Col. Washington Bowie, Jr., receiver, under a bond of $1,000, and a writ of injunction was granted at the same time restraining the defendant from using or vending the articles as prayed in the bill. An attachment for contempt was issued against the defendant on the 11th day of December, 1901, for failure to turn over books, etc., to the receiver. Subsequently on the 8th day of December, 1902, the attachment was dismissed. From that time nothing more seems to have been done in the case until December 23, 1913, when the receiver filed a petition stating that though he had made vigorous efforts to do so lie had been unable to obtain the books. The receiver stated that his most diligent efforts had brought to him only a small sum of money ($162.61), and that he had no possibility of collecting any more assets. The receiver then sets forth the very considerable services rendered by him and asked that he be allowed to retain said sum so collected as compensation for said services and that he be discharged as receiver. Whereupon the court passed an order granting the requests of said petition.
+The pleadings and proceedings have' been stated at some length because the case would appear to have been closed nearly seven years ago. Nothing further was done in the case until the matters now presented for consideration after this long lapse of time.
+The matters are as follows:
+A petition filed January 22, 1920, by the defendant praying that the injunction issued December 3, 1901, be dissolved.
+2. An answer to said petition and a prayer in the same filed on February 5, 1920, by the plaintiff asking that the defendant be punished for contempt for violation of the injunction and that he render an account of the “Ouija” boards made between 1904 and 3908.
+3. A petition of the defendant filed February 30, 1920, asking that the suit be dismissed for laches in its prosecution and because the court has no jurisdiction in the case.
+On the face of these proceedings it is difficult to understand why if there be any merit in the matters presented in these petitions that they should not have been presented long before this time. The patent on the “Ouija” Board, the principal article of controversy, expired in 1908.
+From the testimony of the defendant himself there can be little doubt but that the “Oriole” board put upon the market by the defendant, there was practically an exact reproduction of the “Ouija” board. The defendant knew the meaning of the injunction. Confessedly, although ordered not to “use” or “vend” “Ouija,” he tried to make slight changes “so as to get away from the injunction.” There is abundant testimony to show that he made, “used” and vended the Ouija board or its equivalent, even though to a very limited extent, as he says he made “samples”.
+I do not believe that the violation of the injunction was unintentional, though the defendant may have thought that he had been skillful enough “to get away” from Ouija.
+There is no very definite testimony that any material benefit, however, was derived prior to 1908 by the defendant.
+Without reviewing the authorities cited in the very able briefs presented by the counsel the court is satisfied that there is no question of the validity of the patent involved in this case, but that the court has ample jurisdiction to determine the questions here presented. It might be said that after the lapse of twenty years this objection coming now for the first time is not entitled to much consideration.
+The plaintiff says that he did not possess the information upon which his request asking for the punishment for contempt in violating the injunction is based, until certain information was gleaned in a case heard in the Circuit Court. This may be true, but it must be believed that if any injury had ensued or any real wrong perpetrated that the plaintiff would have known of it, or he should have known it. Even a wrongdoer when all the elements for prosecution are in possession of those who induce the prosecutions after the lapse of so long a time should have the benefit of such lapse of time (unexplained satisfactorily) by not being called upon to answer such a charge. If this were a real desire to uphold the dignity of the court or the disinterested enforcement of its orders surely nearly twenty years should not have been allowed to elapse before action is requested.
+The conclusions reached are that the petition for the dissolution of the injunction should be dismissed, as it was properly granted when ordered, and the defendant is as much guilty of laches in having the matter determined as is the plaintiff.
+That no punishment in the nature of contempt will be inflicted for violation of the injunction, even though the intent to violate existed for the reason that the proof is too indefinite, as to an actual violation by “using or vending” though some of the boards were made and because if violated in 1904 to 1908 in any substantial way the plaintiff or some one interested in the matter should have presented it to the court before the lapse of so long a time.
+The prayer of the answer to the x>etition will be denied.
+Under the proceedings in view of the report of the receiver in 1913 and the facts now presented the bill now should be dismissed.
