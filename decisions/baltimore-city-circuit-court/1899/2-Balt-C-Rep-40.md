@@ -1,0 +1,31 @@
+---
+court: "Baltimore City Circuit Court"
+decided: "1899-05-30"
+citations: ["2 Balt. C. Rep. 40"]
+reporter: "balt-c-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN THE MATTER OF THE TRUST ESTATE OF OTTO SUTRO."]
+source_url: "https://static.case.law/balt-c-rep/2/cases/0040-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2006059
+---
+
+# In re the Trust Estate of Sutro
+
+## Majority (WICKES, J.—)
+
+WICKES, J.—
+It is peculiarly hard that people who have earned money' — especially ladies — should have it taken away from them in any way, but, of course, we are not dealing with this matter from any sentimental standpoint, or from any other point-of view than that the rules of law impose upon us. I have not the slightest doubt that these young ladies earned this money. I have not the slightest doubt that a great deal of it came into the hands of their father.
+I think it is extremely difficult,' under the testimony we have before us, to know exactly how much came into his hands, because Mrs. Sutro in her testimony would say, “about” “I think,” etc.; and my mind, at least, is left in very great doubt as to precisely how much of this money ever did go into Mr. Sutro’s hands, but that some did, I have no doubt, and possibly a great deal of it.
+He occupied towards this transaction a duel relation, as the head of this family and as the head of this company.
+As the head of the company, he had the undoubted right to borrow money and to use it in the affairs of the company, and the indebtedness, when established, would be that of the company.
+Occupying the relation he did towards this family, he seems to hav'e received certain sums of money which, according to the testimony, he said he would use in the corporation, in the business. Strangely enough, for Mr. Sutro was a business man, there were no receipts given, no memoranda which lmoved the amount or showed what he borrowed for the benefit of the company. We are left entirely to the conversations that took place between himself and the members of the family for that. But, assuming that he said so and that he did receive sums of money, precisely how much, we do not know, it seems to me that something more was necessary, occupying the relation that he did towards these parties and towards.the company, not only that he should have said to them, I will use it in my business, but I think the burden is on them to prove that he did use it in the business, or to leave the case in such a position that that must necessarily be the conclusion on that point.
+Now, when we come to deal with that question, we find this testimony to which I have adverted on the one side, and when we go to the books of this corporation we find an account, a formal account, and it is the only writing we have to guide us, except the letter introduced in evidence, in relation to this transaction; and there, in that account, opened between the corporation and these young ladies we find a state of affairs, wholly incompatible with the theory of the petitioners.
+If that account represents the only money that came into the hands of the company, kept as it was under Mr. Sutro’s direction, if that is the only money Mr. Sutro chose to apply that way, or received to apply that way — it matters not in my judgment which— then those accounts show that the expenses and the balance afterwards paid over have balanced the amount received.
+I do not see how it is possible to throw out of the consideration of this case, those books. I do not see how it is possible to say, in the face of the testimony here of Mr. Gibson, that all this money was expended„ in Europe for musical instruments, for, according to the testimony on the other side, Mrs. Sutro did not know how much he paid for instruments he bought over there; she did not name any amount paid. There is an item of $3,000, it was supposed was used in that way. She says she paid some money herself, how much she does not say.
+There is no written memoranda of anything — all lies in loose conversations and recollections of transactions that took place some years ago, without a single memorandum in writing which, to my mind is a very astonishing feature in this case, knowing that Mr. Sutro was a business man, if he really intended to borrow this money for the corporation, or really ever used it for the corporation.
+If I understand Mr. Gibson’s testimony — and the impression made on my mind by Mr. Gibson, is, that he is not only a very intelligent witness, but I see absolutely no trace of unfairness in his testimony, and no desire to say anything but what is just, here — what his private feelings are, I do not know, nor do 1 know the private feelings of Capt. Clark, but they certainly testified with an air of truthfulness, here — but according to Mr. Gibson’s testimony, he was in a position to know — he may not have had access to the safe, or he may not have been consulted by Mr. Sutro as to these business mailers, in regard to what money he ought to borrow, or what money was put in the safe, but he was there, on the spot, had charge of the books, and knew what drafts came in; he was the treasurer, the bookkeeper, kept the accounts, and he knew what packages came from Europe, knew what was paid for them, and his testimony is, from the books and from his recollection that the purchases made abroad, were very inconsiderable, and that most of the purchases made were paid for over here, during the particular season covered by this transaction. .
+Now, taking this testimony altogether, dealing with it from a legal standpoint, with every desire on earth to do the amplest justice to these young ladies, and feeling that it is very great hardship on them to lose the money which, according to the testimony they earned — but dealing with it as, I think, the Court is bound to deal with these things, no matter what its personal feeling may be in the matter, I am of the opinion that these claims are not I>roved and ought not be allowed.
+The effect of that is to dismiss the petition.
+I hope the Court of Appeals, if the case shall go there, will take a different view of it — I shall be very happy to hear that they have done so.
