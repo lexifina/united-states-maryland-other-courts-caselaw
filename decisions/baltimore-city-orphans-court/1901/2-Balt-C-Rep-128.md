@@ -1,7 +1,7 @@
 ---
 court: "Baltimore City Orphans' Court"
 decided: "1901-01-09"
-citations: ["2 Balt. C. Rep. 128", "2 Balt. C. Rep. 127"]
+citations: ["2 Balt. C. Rep. 128"]
 reporter: "balt-c-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
