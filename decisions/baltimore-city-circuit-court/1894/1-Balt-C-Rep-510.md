@@ -1,0 +1,31 @@
+---
+court: "Baltimore City Circuit Court"
+decided: "1894-09-21"
+citations: ["1 Balt. C. Rep. 510"]
+reporter: "balt-c-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EX PARTE PETER C. STRUVEN AND CHARLES WACKER."]
+source_url: "https://static.case.law/balt-c-rep/1/cases/0510-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2003729
+cites_cases: ["34 Md. 108", "34 Md. 117"]
+---
+
+# Ex parte Struven
+
+## Majority (WICKES, J.)
+
+WICKES, J.
+The general rule is well settled that if one creditor by virtue of a lien or interest can resort to two funds, and another creditor can resort to one of them only, the former must seek satisfaction out of that fund which the latter cannot touch. The rule is fully recognized and adopted in this State, and it is a mistake to suppose as was done in this case, that this rule is subject to the option or election of the creditor having two funds out of which to satisfy his demands, for he cannot at his will or pleasure so disappoint the creditor having but one fund, but the latter has a right in equity to compel the party having an interest in both to resort to the other if necessary for the satisfaction of both debts. Hamilton vs. Schwehr et al., 34 Md. 117.
+A familiar example is when a mortgagee holds a prior mortgage on two parcels of lands and a subsequent mortgage on but one of the parcels is given to another, the former must seek satisfaction out of the fund the latter cannot touch.
+But the rule applies as well between a mortgagee and the holder of mechanics’ liens, (34 Md. 108) and therefore as between the mortgage of Struven and Wacker in this case, and the liens of Beacham and Adams the rule applies, and as their mortgage covers both the vessels, the Moore & Brady and the Kirwan, and the liens only the Kirwan, they must exhaust the proceeds of sale of the Moore & Brady, before applying the fund arising from the sale of the Kirwan to the payment of their mortgage.
+But the most difficult question presented in this case is between Dize, an alleged owner of one-half interest in the Moore & Brady and the lien creditors Beacham & Adams.
+Evans bought the vessel for eighteen hundred dollars, and shortly afterward agreed with Dize that he should run her and receive one-half the net earnings. Later on the agreement was modified and in addition to one-half the net earning's, Dize was to receive one hundred dollars per year. Out of this salary and earnings he was to pay for the half-interest Evans agreed to sell him. In May, 1894, Dize having paid, as indicated, over seven hundred dollars on the purchase, and having given his note to Evans for the balance, Evans gave him a bill of sale which was duly recorded. Between the agreement to sell and the execution and delivery of the hill of sale, the liens of Beacham and Adams were entered on the Kirwan and the contention is whether under these circumstances, the rule referred to in this opinion shall be applied so as to compel Struven & Wacker, the holders of the mortgage on both vessels, to exhaust the Moore & Brady before resorting to the Kirwan for satisfaction of their claim.
+Whether the agreement between Dize and Evans operated to transfer the title to Dize may well be questioned. One testifies that he was “to have a right to her” when he had paid the $900.
+The other says lie was “to get the title” when he had paid that sum. Doubtless it was such a contract as Dize could have compelled the specific performance of by paying or tendering the amount of the purchase money to Evans, but Evans retained the title as security, and not until long after the Beacham and Adams liens were entered did he transfer it by bill of sale.
+But in view of tlie Act of Congress of 1850, Sec. 4192 of Revised Statutes, it is not, I think, material what the relation was between the vendor and vendee, as there was no recorded evidence of the title in Dize, and no noticie of the transaction brought home to Beacham and Adams.
+Section 4192, so far as it is applicable to the present inquiry, provides that “no bill of sale, mortgage, hypothecation or conveyance of any vessel or part of any vessel of the United States shall be valid against any pen-son other than the grantor or mortgagor, his heirs and devisees, and persons having actual notice thereof, unless such bill of sale, mortgage, hypothecation or conveyance is recorded in the office of the collector of customs, where such vessel is registered or enrolled.”
+In Moore vs. Simonds, 100 U. S. R. 146, the question was whether an unacknowledged and unrecorded mortgage upon a vessel would not be given precedence over a subsequent recorded one, it being admitted that the mortgagee in the latter had actual notice of the existence of the former. Chief Justice Waite delivering the opinion of the Court held, “that as between the parties and as against persons having actual notice thereof, it was valid without acknowledgment or record,” referring to Sections 4192 and 4193 of Revised Statutes. Clearly the inference is fair, that as to third parties without notice, the transfer must be recorded.
+Nor do I understand the cases referred to by the learned counsel who represents the petitioner, Dize, to at all conflict with this interpretation of the Statute. Some of them are upon a different Statute, and long anterior to the Act of 1850. Some of them establish the validity of an oral sale of a vessel as between the parties or others having actual notice of it, hut none that I have been able to examine, decide that the section cited bears a different construction from that I have placed upon it.
+I think, therefore, the rule applicable to the marshalling of securities applies precisely as if no sale had been made to Dize, Beacham and Adams being unaffected by it, and that the fund for distribution being insufficient to pay the mortgage and the mechanics’ lien creditors, must be appropriated first to the payment of the mortgage and the balance to Beacham and Adams in proportion to their claims. The exceptions therefore to Auditor’s Accounts “B” and “C” filed on behalf of Beacham and Adams are sustained, and the exceptions filed to account “B” and praying ratification to account “0,” on behalf of Dize, are dismissed.
