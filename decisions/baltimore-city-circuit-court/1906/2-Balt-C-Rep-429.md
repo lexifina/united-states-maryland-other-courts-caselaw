@@ -1,0 +1,27 @@
+---
+court: "Baltimore City Circuit Court"
+decided: "1906-10-15"
+citations: ["2 Balt. C. Rep. 429"]
+reporter: "balt-c-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LIZZIE C. SAPPINGTON ET AL. VS. MATTHEW S. BRENAN ET AL."]
+source_url: "https://static.case.law/balt-c-rep/2/cases/0429-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2006113
+cites_cases: ["102 Md., 131"]
+---
+
+# Sappington v. Brenan
+
+## Majority (NILES, J.—)
+
+NILES, J.—
+The point involved in this case is the construction of the will of Mary E. Daley.
+By this will, the testatrix, after directing her dwelling house to he sold, gives the proceeds of such sale to a trustee, the interest and profits thereof to be paid to the daughter of the testatrix for her life; and upon the death of her said daughter, the testatrix directs the trustee aforesaid as follows, viz: “To invest one-half of the net proceeds of sale in city or State stocks, or in other safe securities, the interest or profits thereof for the use and benefit of my granddaughter or granddaughters, the daughter or daughters of the said Theresa A. Sappington, until she or they shall attain the age of twenty-one years. The other half of the net proceeds * * * I direct Anthony H. Jenkins, trustee aforesaid, to divide between the children of my brothers, Patrick and John Owings and also between the children of my sister, Hannah Grate. In the event of the death of my granddaughters or granddaughter, and their leaving no issue, then I direct that the portion of my estate I have bequeathed to my granddaughter or granddaughters to be divided by Anthony H. Jenkins, trustee aforesaid, between the children of my brothers, Patrick and John Owings, and also between the children of my sister, Hannah Grate.”
+By another provision of the same will, the testatrix gave to the same daughter a certain ground rent for life, and then provided, as follows: “After the death of my said daughter, Theresa A. Sappington, I direct my executor hereinafter named to sell the aforesaid ground rent, one-half of the net proceeds of sale * * * I direct to be invested for the use of my granddaughter or granddaughters, the daughter or daughters of the said Theresa A. Sappington ; the other half of the net proceeds of sale of the ground rent to be divided between the children of my brothers, Patrick and John Owings, and also between the children of my sister, Hannah Grate.”
+Theresa A. Sappington, the life tenant, has died, leaving two daughters, both of whom have reached the age of twenty-one years.
+The first question is, as to whether they are entitled absolutely to a one-half interest in the proceeds of the house and lot, and also to the proceeds of the ground rent; or whether, at least in reference to the proceeds of the house and lot, they have merely a life estate with remainder over. My opinion is, that the testatrix meant that the proceeds of the house and lot should be distributed in exactly the same way as the proceeds of the ground rent; and I am further of the opinion that by a true construction of the will, the daughters of Theresa A. Sappington obtained an absolute estate in these proceeds when they became twenty-one years of age. Second, when Theresa A. Sappington died, there were no children of the brothers of the testatrix, Patrick and John Owings, nor any children of her sister, Hannah Grate. Hannah Grate never had any children. But there were children of both Patrick and John alive at the date of the death of the testatrix, who pre-deceased the life tenant, leaving descendants.
+The argument of counsel for the daughters of Mrs. Sappington is, that the remainder after the death of Mrs. Sappington in one-half of these proceeds of sale was left to the children of John, Patrick and Hannah as a class, and was to vest in them upon the death of Mrs. Sappington; that the children must be understood to mean descendants of the next subsequent generation, and cannot include grandchildren, or any other descendants, and that there being no persons answering the description of “children” when the estate vested, the provision failed, and the testatrix died intestate of that property, which thereupon reverted to her heirs, who are now the daughters of Mrs. Sappington. I appreciate fully the weight of the argument. But the trouble with the argument in the ease is, that the result to which it leads seems to me to be directly contrary to the general intent of the will. This general intent I find to be plain, viz: that one-half of the proceeds of the property mentioned was to go to Mrs. Daley’s own descendants, and the other half to her collateral relatives, the families of her two brothers and sister.
+To effectuate this intent, it is only necessary to do what our courts have held must always be done, unless the language of the will forbids such construction, viz: hold that the remainder vests at the death of the testator.
+I think that Roberts vs. Roberts, 102 Md., 131, and the cases there cited, are sufficient authority for holding in this case, that this remainder vested in the children of Patrick and John who were alive at the death of the testatrix, those children taking equal shares per capita not per stirpes. Their share, of course, will now be awarded to their next of kin, or legatees, and I will sign an order referring the case to the auditor to state an account on this basis.
