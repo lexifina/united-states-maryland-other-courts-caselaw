@@ -1,0 +1,41 @@
+---
+court: "Baltimore City Circuit Court"
+decided: "1902-01-07"
+citations: ["2 Balt. C. Rep. 223"]
+reporter: "balt-c-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN RE: TRUST ESTATE OF WILLIAM A. TUCKER."]
+source_url: "https://static.case.law/balt-c-rep/2/cases/0223-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2005895
+cites_cases: ["167 U. S. 371", "168 U. S. 1", "3 Cow. 120", "38 Md. 503"]
+---
+
+# In re Trust Estate of Tucker
+
+## Majority (RITCHIE, J.—)
+
+RITCHIE, J.—
+Mrs. Tucker claims that, under an assignment from her husband, George •T. Tucker, she is entitled to an annuity of $300, and also to three half-yearly instalments of the same paid to him by the trustee, as she alleges, without authority.
+Under the will of his father, George J. Tucker became entitled to an annuity of $300, and under the will of his mother to the income on $10,500. The Safe Deposit and Trust Company is now the trustee under the father’s will, and Hammond J. Dugan is the trustee under the mother’s will.
+In 1879 Mr. Tucker, in pursuance of an ante-nuptial agreement, assigned all his interest in both said annuity and income to his wife, Mary L. Tucker. In January, 1889, she, by endorsement on the back of the deed, re-assigned the same to him, and in 1894 they executed articles of separation, in which each renounced all interest in the property of the other.
+The Safe Deposit and Trust Company became trustee of the annuity in 1888, and on the joint receipt of Mr. and Mrs. Tucker made its first payment of $150 to the former trustee on account of advances. Before .the instalment of March 20th, 1889, became due the Company learned of the assignment of 1879 by Mr. Tucker to his wife, and paid that instalment by check drawn to her order, enclosed to the address of her husband, and the instalment of September 20th, 1889, was paid in like manner. The Company did not at that time know of her re-assignment, but this fact raises no question on this petition.
+On March 17th, 1890, Mrs. Tucker gave to the Company a revocable order, authorizing it to pay the annuity to her husband, and on said order it was so paid tip to and including the instalment of September 20th, 1896.
+In November or December, 1896, the parties separated. Mrs. Tucker thereupon, in January, 1897, revoked the order just mentioned, and the March instalment was paid to her.
+Meanwhile, in January, 1897, Mrs. Tucker filed a petition in this court against her husband and Hammond J. Dugan, trustee under the will of her mother, asserting her right under the assignment of 1879 to the income on the $10,500. Mr. Tucker in his answer to that petition relied by way of defence on her re-assignment and the articles of separation mentioned. On April 20th, 1897, the attorney of Mr. Tucker notified the Safe Deposit Company by letter of the existence of these two papers, and at the same time advised the company that Mrs. Tucker had no right or title to said annuity, and requested it to make no further payments to her.
+The information thus received was communicated to Mrs. Tucker by the Company by letter of April 20th, and in response thereto Mr. Meyers, her attorney, called at the office of the .Company, and had an interview with Mr. Marshall, its Secretary. Mr. Meyers testifies positively that he then explained the matter to Mr. Marshall; that he notified him that the question of the validity of Mrs. Tucker’s re-assignment and of the articles of separation was then in litigation in the proceeding against her husband and Mr. Dugan, the trustee of the income; and that Mr. Marshall replied that as such was the case the Company would not pay the annuity to either party until the litigation was settled.
+Mr. Marshall recalls the interview, and his recollection of it is, that he told Mr. Meyers that “if Mrs. Tucker opposed this payment (to the husband) it would be necessary for her to file a petition in the Circuit Court.” Ex-. cept so far as this may question the accuracy of Mr. Meyers’ account of the interview, his testimony is uncontradicted. Mr. Meyers has no recollection of anything having been said about filing a petition, and testifies that if anything had been said, he would have filed one. However this may be, the facts still remain that Mr. Meyers’ statement that he notified the Company that the validity of the re-assignment and articles of separation was then being contested in the income case, is not denied; and that the Company knew that Mrs. Tucker opposed the payment of this annuity to her husband.
+Under this state of facts the Company assumed the responsibility of paying to Mr. Tucker the three instalments of September, 1897, and March and September, 1898. . .
+In October, 1898, Judge Wickes, in the income case, decreed that Mrs. Tucker was entitled to the income on the $10,500 under the assignment of 1879.
+The testimony further shows that during the period covered by these three payments of the annuity Mr. and Mrs. Tucker were living apart, and that she did not know that the annuity was being paid to Mr. Tucker, but was under the impression that payment was being withheld to await the decision in the income case. The instalments payable since and including March 20th, 1899, have been withheld.
+Mrs. Tucker now asserts her right to this annuity under the assignment of 1879, and tile prayer of her petition is, that the trustee may be required to pay oyer the same to her, and also to account to her for the three instalments paid to her husband. The answer sets up by way of defence her re-assignment and the articles of separation, just as was done in the income case.
+First. The question of her right to this annuity is ros judicata. The issue presented is precisely the same as that which was made and determined in the other proceeding. It was impossible for Judge Wickes in the income case to maintain Mrs. Tucker’s right to the income under the assignment of 1879, without determining that neither her re-assignment or the articles of separation operated to defeat it. This determination was absolutely essential to the decree in that case. The sufficiency of the defence set up was then conclusively passed on, and the question cannot be re-opened now.
+Tt is true that in the income case ¡Mrs. Tucker sought to recover the income, and here she seeks to recover the annuity, but her right to the annuity depends on precisely the same question as did her right to the income. If the question of fact or right involved in a second suit between the same parties, be the same that was in issue and determined in a former suit, the determination in the first is conclusive of the second, although the second suit may relate to a different claim or cause of action.
+Whitehurst vs. Rogers, 38 Md. 503-515.
+New Orleans vs. Bank, 167 U. S. 371-396.
+Railroad vs. U. S., 168 U. S. 1-48.
+Gardner vs. Buckbee, 3 Cow. 120.
+It is not necessary, however, to rest my decision on the estoppel. Prom my own examination of this case I find that Mrs. Tucker’s re-assignment was void because of duress; and that the articles of separation (assuming that they would otherwise have defeated her right to this annuity) are also void, because, if for no other reason, Mr. and Mrs. Tucker did not separate. They lived together for two years after.
+Mrs. Tucker’s right to the annuity under the assignment of 1879, is therefore unimpaired, and she is entitled to the instalments which have accrued and are now in the hands of the trustee, and to such as may accrue hereafter.
+Second. From the facts already stated in full it appears that the trustee had ample notice that the validity of the re-assignment and of the articles of separation was being contested in the income case. It could have protected itself by a- bill of interpleader, or by withholding payment, as it has done since this petition was filed. In stopping payment to Mrs. Tucker or on her order, and in paying over to Mr. Tucker, it acted on its own responsibility after full notice, and assumed the risk in paying to him the three instalments in question. As he was not entitled to receive them the trustee must now account to Mrs. Tucker for the same.
