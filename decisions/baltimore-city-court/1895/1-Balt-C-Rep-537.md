@@ -1,0 +1,19 @@
+---
+court: "Baltimore City Court"
+decided: "1895-10-28"
+citations: ["1 Balt. C. Rep. 537"]
+reporter: "balt-c-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF MARYLAND IN RELATION TO JAMES J. McNAMARA AND HARRY L. PROT55MAN VS. WILLIAM H. BIANS, ET AL., BOARD OF SUPERVISORS OP ELECTIONS IN THE CITY OP BALTIMORE."]
+source_url: "https://static.case.law/balt-c-rep/1/cases/0537-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2003680
+---
+
+# State ex rel. McNamara v. Bians
+
+## Majority (DOBLER, J.)
+
+DOBLER, J.
+The Board of Supervisors of Elections has received a certificate of nomination in apparent, substantial conformity with Article 33 of the Code of Public General Laws as amended by acts of the General Assembly subsequent to the adoption of the code, purporting to nominate candidates for various offices, to be filled at the approaching election by and on behalf of a convention of “The Citizens’ Party of Baltimore City,” a party which at the last preceding general election next before the holding of the said alleged convention polled more than one per cent, of the entire vote cast in this State. The Act of 1890, Chapter 538, declares that when such certificates are in apparent substantial conformity with Article 33, they shall be deemed valid. Without doubt, the names of the candidates nominated would have been placed upon the official ballots had not the Board of Supervisors received a number of protests and affidavits of persons who claim to be members of said Citizens’ Party, and who in their said protests insist that there has been no duly authorized convention of their party held to make or determine upon nominations for the offices to be filled at the approaching election, and who request the Board to ignore the certificate and nominations of the alleged convention of their party. Under the circumstances, the Board of Supervisors has refused to place upon the official ballot the names of the candidates so nominated unless, and until ordered so to do by appropriate legal process. Hence this application for a writ of mandamus. Our election law does not give the Supervisors of election the right to reject nominations certified to it in apparent substantial conformity with Article 33. If more than one set of nominations are certified to the Board by persons claiming the authority to represent and to make nominations for the same political party, neither set of nominations can be rejected. The Board may, however, determine which set of claimants are entitled to the party designation and emblem, the other nominees to have the word “Independent” prefixed to their party name. NO' provision has been made for hearing and determining protests from individuals or organizations within any particular party, against the action of such party’s convention, or touching the regularity of such assemblages. If, however, such protests were permitted to be considered, the law should be construed in a manner most favorable to the reception of names of candidates for popular suffrage. I could not refuse to recognize as a convention, an assemblage of persons well known to be representatives of the principles of the party to which they claimed to be attached, who were members of the executive committee of the Association that kept alive an interest in such party’s principles, and who claimed to be delegates assembled in accordance with the usages of their party, even though the attendance on such assemblage might be small and the regularity of their proceedings might be questioned by a respectable number of their former political associates. For the reasons above briefly mentioned I will order the peremptory writ of mandamus to be issued as prayed.
