@@ -1,0 +1,28 @@
+---
+court: "Baltimore City Circuit Court"
+decided: "1893-01-19"
+citations: ["1 Balt. C. Rep. 311"]
+reporter: "balt-c-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["F. W. & P. F. SCHWANEBECK VS. LEWIS C. SMITH & HARRISON O. WILBUR."]
+source_url: "https://static.case.law/balt-c-rep/1/cases/0311-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2003772
+cites_cases: ["113 Mass. R. 283", "27 Md. 334", "41 Md. 559", "45 Md. 141"]
+---
+
+# Schwanebeck v. Smith
+
+## Majority (WICKES, J.)
+
+WICKES, J.
+When the contract between the par-lies, the specific enforcement of which is sought in this case, was first presented for the consideration of the Court, attention was not directed, either by the pleadings or by argument of counsel, to the last clause which requires the defendants to re-convey to the plaintiffs a part of the lot of land in veontroversy, at the “market price as it shall appear on the date of said sale.”
+The questions argued and decided at the first hearing, were rather collateral to the contract itself, and while they involved the construction of certain clauses, did not involve a consideration of the entire instrument, and hence the Court felt called upon, in deciding what was more immediately before it, to call attention to what seemed to be a fatal uncertainty in the agreement itself.
+The reconveyance of part of this lot at the “market price” on a certain day, is part of the consideration moving to these defendants. It cannot be said to be “subsidiary” to the main purpose of the contract, or a “non essential,” or a mere “incidental matter,” and not part of the principal subject matter, but it is just as much a part of the agreement, and just as important to these defendants, as the other stipulations contained in it, which have already been considered.
+Should the defendants hereafter file their bill and the Court be asked to decree the reconveyance of the land in question at the “market price,” who will be able to say with any certainty what the “market price” is? The parties themselves have provided no method of ascertaining it, and hence the case differs from a line of decisions, in which appraisers are to be appointed to ascertain the “fair value,” “the rental value,” &c., and when upon failure of the parties to appoint, the Court appoints for them; but here there is no provision at all, and none can be provided that will not practically make a new contract in this particular .for the parties. It is suggested that an examiner could take the testimony of experts, and the Court decide between their conflicting valuations, but no such power is given the Court by the agreement itself, or by any precedent in this State, of which we have any knowledge. The general principle of law which governs the construction and enforcement of contracts in equity is well established. Said the Court in Reese vs. Reese, 41 Md. 559, “an agreement to be specifically executed must be plain, just, reasonable, hona fide, mutual and certain in nil its parts, and if it be wanting in any one of these essentials, it cannot be enforced.” As to what constitutes uncertainty, our own cases are quite full.
+In Delashmutt, executor, vs. Thomas, 45 Md. 141, the agreement in writing was “the said Arthur Delashmutt to have the preference of renting said property as long thereafter as it shall he rented as a store." The Court (Bartol, O. J.) held the stipulation to be void and inoperative for uncertainty.
+The Court said, “such a contract was altogether vague and uncertain and conferred no definite rights which could be enforced.”
+In Gelston vs. Sigmund, 27 Md. 334, the agreement in writing was that A should permit B to retain possession of certain property from July 1st, 1866, to July 1st, 1867, upon his giving the same rent that A “might be able to obtain from other parties.” The Court (Bartol, J.), held that it was not such an agreement as , a Court of Equity could enforce, because it lacked certainty and mutuality,” saying, “the rate of rent to be paid is not certain or definite.” It was “as much as any one else would pay.” That could not be certainly ascertained; it was not practicable to know how much another would give.”
+In 113 Mass. R. 283, the same doctrine is held. There an agreement was inserted in a lease to renew the same at its expiration, the “rent to be proportioned to the valuation of said premises at said time,” but with no provision for determining that valuation. When the time for renewal arrived the market value of the premises had more than doubled. The Court said, “the agreement does not fix the rate of rent apd does not permit it to be fixed by the reservation in the original lease. The only means of determining what it shall be, are that it is to be “proportioned to the valuation of said premises at said time.” But no valuation is provided for, and no mode indicated by which such valuation may be obtained.”
+The market price of a lot of land on a certain day, in the absence of any mode being indicated by the parties to the contract for its ascertainment, must be a matter of conjecture. It is wholly unlike the market price of wheat and corn and other commodities actively, dealt in, and for which there is a recognized market price made each day in the open markets. But the price of land is entirely different, and, tested by the cases cited, and by many others to which I need scarcely refer, the contract in this case is void, because of uncertainty, and cannot be enforced. The bill must therefore be dismissed.
