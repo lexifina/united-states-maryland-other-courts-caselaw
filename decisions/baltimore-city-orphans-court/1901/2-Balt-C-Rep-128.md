@@ -1,0 +1,33 @@
+---
+court: "Baltimore City Orphans' Court"
+decided: "1901-01-09"
+citations: ["2 Balt. C. Rep. 128", "2 Balt. C. Rep. 127"]
+reporter: "balt-c-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BLOCK and O’BRIEN, JJ., concurred."]
+parties: ["IN RE, THE ESTATE OF GEORGE R. BERRY, DECEASED."]
+source_url: "https://static.case.law/balt-c-rep/2/cases/0128-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2005910
+cites_cases: ["4 Gill, 55", "81 Md. 434", "83 Md. 101"]
+---
+
+# In re the Estate of Berry
+
+## Majority (SAVAGE, C. J.—)
+
+SAVAGE, C. J.—
+The questions of law in the case which we now decide have been ably argued by the respective attorneys. They have arisen in connection with the caveat filed ' in this court on the 9th day of May, 1899, by Louise C. Berry et al., to the last will and testament of George R. Berry, deceased, and upon which issues were sent by us as prayed to the Superior Court of Baltimore City, (Harlan, C. J.,) for trial by a jury, and which resulted in favor of the caveators, and later in the overruling by that court of the motion of the caveatees for a new trial.
+On the 27th day of December, 1900, this court, upon the petition of the caveatees, passed an order which after directing the payment of counsel fees as prayed, concluded as follows: “And it is hereby authorized to enter an appeal to the Court of Appeals in respect to the caveat filed to the will of said testator, and to pay out of ''the estate of said testator all fees and other costs and expenses incident to the same.”
+The attorneys for the caveators have moved that the language above quoted be stricken out, and, after argument and due consideration, we have concluded as follows:
+We have been unable to agree with them in their views of the law, and, therefore, the reasons for our action are not those suggested by the attorneys for the caveators. We have also not adopted the contention of the attorneys for the caveatees. Without deciding, because not now necessary, what are the powers,' and the limitations of the authority of this Court, over executors in their conduct or in the discharge of their duty as to the recovery or security of estates entrusted to them by deceased testators, or what course we would adopt if proof was produced by parties in interest that an executor was faithless, obstructive, derelict or indifferent to his duties and obligations, we are content to state as an executor, has, under the law (Code, Art. 5, Sec. 5), an indisputable right to appeal from an adverse finding of a jury and the rulings of a court of law without even the knowledge of this court, and solely in the exercise of his discretion upon advice of counsel selected by him, and that inasmuch as in this case a timely appeal has been prayed it is not incumbent upon us to advise, direct or authorize the executor in the discharge of his duty in the premises.
+But we desire to state that it is well settled in Maryland that after the probate in common form of a will it is the high duty of an executor, upon the advice of counsel, to defend the will of his deceased testator until a final adjudication by the highest court, (Compton vs. Barnes, 4 Gill, 55), and that such being his duty as the representative of his deceased testator and in the execution of the trust confided in him by his testator his duty is not completed when there is an adverse finding of a jury in the trial court and ii. is followed by the refusal by the trial judge of a new trial.
+If in ilie bona fide belief of his counsel, (as in this case,) the verdict was brought about, by erroneous rulings by the lower court on questions of law, it is his plain duty to appeal. In our opinion any other view of the duty of an executor would be in effect to so limit his actions as the personal representative of a deceased testator as to even the integrity of the will as to oblige him to tamely submit to a wrong-arising from a. merely sympathetic finding or erroneous rulings of ,a lower court, and no one cam rationally draw a line and determine that an executor’s duty, under advice of competent counsel, ends short of a final adjudication by Ilie highest court.
+The obligation imposed upon an executor to defend a will whenever and by whomsoever assailed is not limited to the will itself, but an executor must, if necessary, secure and protect a trust fund so that the purpose of a testator shall be accomplished. Wareheim vs. Graf, 83 Md. 101.
+In the case of Littig vs. Hance, 81 Md. 434, where the executor was seeking .a construction of the will, the court said with reference to his duty to appeal : “Tt is not an appeal by one who has no interest in the subject matter of the controversy, as in instances where the appellant is a pure custodian of a fund but the bill was filed by him for .a construction of his testatrix’s will, and if he had a right to invoke the. aid of the lower court in ascertaining the true meaning of that will he certainly had a right to bring the record to this court by appeal for a review of that construction if he conceived that by the decree below the design and purposes of his testatrix were defeated.”
+It being, therefore, clear that when an executor has a duty to perform which may necessitate an appeal, and an appeal is advised by counsel as necessary, it follows, as an incident, that he has a right to employ counsel and to pay costs out of the estate— else he would be left helpless to defend or to seek a construction no matter h'ow imperative, in his judgment and in the judgment of his counsel, might be the necessity confronting- him.
+We will leave the executor of the will of George it. Berry, deceased, to pursue, without the advice, direction, or authority of this Court, the, course' already advised and begun. It is admitted that the appeal by the caveatees stays all proceedings in this court, Code, Art. 5, S. 5.
+It has been the invariable practice of this court not to order in advance of a final adjudication the payment of the costs of an appeal to be made out of an estate, or prior to that time the payment of counsel fees, and we will not change it in this instance.
+AVe will not be without guidance when, at the end of the litigation, the executor asks to be allowed proper costs and reasonable counsel fees, and we will then recall the decisions of the Court of Appeals in Compton vs. Barnes, supra, and in Grass vs. Ramsay, 9 Gill, pp. 56 and 456; but at this stage of the controversy the questions of the payments of costs and counsel fees will not be passed upon by us.
+We will, therefore, pass an order striking out the language quoted from our order of December 27th. 1900.
