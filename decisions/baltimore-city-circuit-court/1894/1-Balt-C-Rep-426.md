@@ -1,0 +1,40 @@
+---
+court: "Baltimore City Circuit Court"
+decided: "1894-02-09"
+citations: ["1 Balt. C. Rep. 426"]
+reporter: "balt-c-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM M. MITCHELL ET AL. VS. WILLIAM PITT PRICE ET AL."]
+source_url: "https://static.case.law/balt-c-rep/1/cases/0426-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2003595
+cites_cases: ["70 Md. 409", "9 P. S. R. 487"]
+---
+
+# Mitchell v. Price
+
+## Majority (WICKES, J.)
+
+WICKES, J.
+After several contests in the courts, the parties to this suit agreed to submit their differences to arbitrators, chosen under section 209, of Article 23, of the Code. Each party, under this section, is permitted to select “one discreet and reputable person from amongst the members or trustees of some neighboring congregation or society of the same religious persuasion, if any such there be, and if none such, of any other religious society, which two persons shall choose a third; qualified in like manner, whose judgment or award shall be final,” &c.
+The bill filed is to set aside the award.
+First. Because the defendant selected James Langrall, a relative of one of the parties interested.
+Second. Because said Langrall was a member and trustee of the Methodist Episcopal Church, and not therefore of the same • “religious persuasion” as required by the Act, and
+Third. Because Langrall and Morgan, the two arbitrators chosen by the parties, selected a third arbitrator, also of the Methodist Episcopal Church, and that they signed the paper appointing him at different times and places, and not in the presence of each other.
+The controversy arose in the Fair-mount Methodist Church, an Independent Methodist Society. No contention arises touching the regularity of the hearing, the signing of the award, or indeed regarding any proceeding subsequent to the selection of the arbitrators.
+At the hearing of the case, the first ground of objection was abandoned because it was frankly admitted by the plaintiff that they knew of the relationship of Mr. Langrall to one of the parties, but determined to go on notwithstanding, and so waived their right to insist upon that objection at this stage of the proceeding.
+They also admitted, and the evidence shows, that they knew perfectly well that Langrall and Law were members of the Methodist Episcopal Church, and not of Independent Methodist Churches, at the time they were chosen, but that in order to facilitate the already protracted proceedings, they stated their objection, but decided to appear before them and conduct the arbitration to a close. But it is supposed they have not and could not waive their right to object at any time to the proper qualification of the arbitrators, because, being, as is said, quasi judicial officers, a question of jurisdiction can be raised at any time, even after final award.
+I do not so understand the law, even conceding, for the moment, the judicial character of the arbitrators. A plea to the jurisdiction must be promptly made and filed under our rules and under the decisions of the Court of Appeals, within the time limited for other pleas, if the party pleading in abatement has knowledge of the facts.
+But the Courts have been most unwilling to set aside awards upon mere technical grounds, whether referring to the qualifications of the arbitrators themselves or the regularity of their proceedings, where the parties, fully aware of the objections, have taken the cliance of a favorable award, and after an adverse decision, have attempted to get rid of it, for reasons well known at an earlier stage of the case. In Christian vs. Moran, 9 P. S. R. 487, Gibson (C. J.) said: “It is most true that arbitrators assembled have not power to supply a vacancy in their number; but they may supply it with the express or implied assent of the parties; and this disiinguishes the case from Cross vs. Wilson, in which the party affected by the award had done nothing to sanction the proceedings which led to it. In that case he had gone away protesting; in this he remained protesting, but participating. He proceeds with his defence protestando, but intending to take his chance before the arbitrators, and thus obtain the advantage of being loose or bound at his election. But he was bound to give up his chance or his objection, for they could not exist together. Had the arbitrators awarded in his favor, he might, notwithstanding his protest, have enforced the award; and mutuality of submission requires that both should be bound or neither.”
+In B. & O. R. R. Co. vs. The Canton Co., one of the arbitrators was the owner of stock in the company defendant, a fact not known to the plaintiff.
+The Court of Appeals in 70 Md. 409, compares it to a judge deciding his own case, but even under the strong facts presented only held the award voidable, “unless the parties to the submission, having knowledge of his disqualification, waive the objection or preclude themselves by their acquiescence or laches from taking advantage of it.”
+Applying these well settled principles of law to the admitted facts in this case, I have no difficulty in arriving at the conclusion that the complainants have waived whatever right they originally had to object to the qualifications of the arbitrators and to have the award set aside for this reason.
+This view of the case obviates the necessity of entering upon a discussion of the meaning of the words “religious persuasion,” as used in the statute. A number of learned clerical gentlemen were examined as to their meaning, but did not at all agree. Two of them holding that they applied rather to church government, than to doctrine or faith, while a majority of the witnesses, clergyman of the Methodist Church, testified that Ihe words meant religious faith, rather than church polity, and that all Methodists, whether independent or not, were of the same religious faith.
+But it must be borne in mind that, these words are of ordinary and familiar signification, and occurring, as they do, in a statute, must receive that construction, rather than the technical meaning, which theologians attach to them. Tested by the lexicographers, generally accepted as authority, the word “persuasion” used in this sense, according to Webster, means “a creed or belief, or a sect or party adhering to a creed or system of opinion, as men of the same persuasion." According to Century Dictionary, a late authority, “persuasion — way of thinking, creed or belief; hence a sect or party adhering to a creed or system of opinion; as Christians of the same persuasion.”
+But this branch of the inquiry need be pressed no further, as the decision of the ease does not require it.
+The single remaining objection relates to the signing of the paper by Morgan, the complainant’s arbitrator, and Langrall, chosen by defendants, appointing the Rev. Milton J. Law the third arbitrator.
+It is said they signed at different times and places, and ought to have signed at the same time and place, and in the presence of each other.
+That they agreed upon Mr. Law is not denied, nor is it alleged that he, or indeed, anyone of them, was other than a “discreet and reputable person.”
+It was stated at the hearing that one of the learned counsel for the complainants had arranged that Mr. Morgan should be present at an hour and place fixed for this purpose, but that when Mr. Langrall attended Morgan was not on hand. It was under these circumstances that the signatures at different times and places occurred. But there is no method prescribed by the Act by which this concurrence of. selection shall be arrived at, and in the absence of the slightest evidence tend- . ing to show unfairness in this or any other particular, the award ought not to be disturbed, and the proceeding impaled upon the sharp point of technical and unsubstantial objections.
+Upon a careful review and consideration of the case, I am of opinion that the complainants’ contention is without merit, and that the bill be dismissed with costs.
