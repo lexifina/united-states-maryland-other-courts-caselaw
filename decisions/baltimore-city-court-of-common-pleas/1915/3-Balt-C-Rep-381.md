@@ -1,0 +1,30 @@
+---
+court: "Baltimore City Court of Common Pleas"
+decided: "1915-12-11"
+citations: ["3 Balt. C. Rep. 381"]
+reporter: "balt-c-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ANTONI SOLVUCA, SOMETIMES CALLED ANTHONY SOLVUCCI, VS. RYAN & REILLY COMPANY, A BODY CORPORATE."]
+source_url: "https://static.case.law/balt-c-rep/3/cases/0381-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2007946
+---
+
+# Solvuca v. Ryan & Reilly Co.
+
+## Majority (DAWKINS, J.)
+
+DAWKINS, J.
+(Orally)—
+I understand that it is admitted that the case made out in the declaration falls within the purview of the so-called Workmen’s Compensation Law, if that law be constitutional.
+In view of tlie conclusions that I have reached in this case, it might seem best that no formal opinion be filed. I want you to have my views before the next term of the Court of Appeals and before the Legislature shall convene. I confess that the matter presents to me some very serious doubts. I have not gotten over my old-time recognition of the absolutely separate functions of the legislative, executive and judicial departments of government — nor have I risen to the plane of this commission age of government when almost every phase of our governmental life is committed to a commission. If the tendency continues to develop the Constitution will be relegated into a state of “innocuous desuetude,” and we will be governed and directed in all things by the Legislature, whether acting within or without constitutional limitations. There would seem to be little difference between the Act establishing this commission and the exercising of the power and right to establish tribunals to deal with any class of wrongs to be righted, or even with matters of contract. I fail to find anything in our constitution giving our Legislature the power to establish a Court — and such a Court (or commission) as this comes dangerously near depriving the parties of any and all rights, without due process of law, as guaranteed by our Bill of Rights. The one right guaranteed to all of jury trial is taken away.
+I have read with the greatest interest the illuminating briefs of counsel. I am strongly of the opinion that the reasoning of the case in Ives vs. South Buffalo R. R. Co., in 201 New York, 271, is sound, but as it has in effect been repudiated by the Court of the very state that handed it down, it should not control. This repudiation came after the Constitution of New York was changed.
+The Act in question seems to protect both employer and employe, the one from wasteful suits and excessive verdicts, and the other from delays and uncertainties, upon the theory that a business should bear the risks of accidents arising in it, and the burden should be equally distributed. The various courts have so often decided that a taking as contemplated by this Act is so clearly a proper exercise of the police power, that it is proper to adopt that as the law. Granted that the employers are compelled to insure and that there is in that sense a taking, they insure themselves and their employes from loss, not others, so that the mutual benefits are direct.
+Large business concerns have long carried accident indemnity insurance. It would seem rational to consider the practical phase as well as the theoretical one in deciding whether a taking is a violation of the Constitution.
+Such a scheme of insurance as protects workmen and their dependents from becoming objects of charity, promotes the public welfare. The theory of Workmen’s Compensation- Acts is not one of individual liability growing out of a contract or of a tortious Act. It is that in the interest of the State and its citizens, the portion of the cost of furnishing services, represented by the loss of time caused by accident, should be borne by all the employers and eventually by the consumers. The supposed advantages is social justice preventing pauperization as a consequence of accidents, it is on that the-, ory it is said to be serving a public purpose. This matter has been well examined as I thought it my duty to examine carefully the Acts and the case construing those Acts.
+I am indebted to counsel for the references to and full discussion of the cases passing upon the questions arising under the Acts of Assembly in the various states enacting these modern or latter-day Workmen’s Compensation Laws.
+A careful examination of many of the cases has convinced me that the Courts have labored hard to uphold these Acts that seem to be intended to help the great mass of the people. This particular Court, whilst finding it difficult to accept the reasoning of some of these cases, after reading our Bill of Rights and the Constitution of Maryland, yet I have reached the conclusion that as similar Acts have been upheld in so many decided cases, and that as the Maryland Act has been in successful operation for more than a year, and that as a large number of employers have made themselves subject to the provisions of the law, and too, that both employers and employes have expressed satisfaction with the working of the law — sitting as a Court whoso decision may be, if necessary, easily and inexpensively reviewed by another tribunal, I am of opinion that if there be a doubt it should be resolved in favor of upholding the Act.
+•‘For forms of government let fools contest—
+What’s best administered is best.”
+Out of the several thousand claims which have been filed before the commission, I understand very few have been appealed to the Courts. A large number of people are now receiving benefits by way of compensation adjudicated and fixed under the law. In view of these facts, I feel as above stated, that my doubt as to the power of the Legislature to enact such a law should be resolved in favor of the law and the demurrer in this case which is admitted to be a test ease should be sustained to the end that the plaintiff may seek his redress for the wrongs alleged to have been suffered under the commission, or take such other action as he may deem proper. The demurrer will be sustained.
