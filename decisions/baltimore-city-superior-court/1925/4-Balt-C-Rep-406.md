@@ -1,0 +1,32 @@
+---
+court: "Baltimore City Superior Court"
+decided: "1925-06-18"
+citations: ["4 Balt. C. Rep. 406"]
+reporter: "balt-c-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE BALTIMORE TRUST COMPANY VS. K. ZAMANSKY."]
+source_url: "https://static.case.law/balt-c-rep/4/cases/0406-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2010083
+cites_cases: ["117 Md. 494", "133 Md. 23", "15 Wendell 351", "3 N. Y. 188", "4 Denio 65", "94 Md. 160"]
+---
+
+# Baltimore Trust Co. v. Zamansky
+
+## Majority (FRANK, J.)
+
+FRANK, J.
+The declaration in this case consists of six common counts and a special seventh count. In the special count it is averred that the defendant by his promissory note then overdue promised to pay to the order of Bernstein, Cohen & Co., $300 six months after date * * * and the plaintiff became the holder in due course thereof, but the defendant did not pay the same. The action is brought under the Speedy Judgment Act and the cause of action filed is the promissory note described in the seventh count. This becomes in consequence a part of each count of the declaration.
+Rullman, admr., vs. Rullman (Md.), Daily Record, April 25, 1925.
+This case is one of a series of cases brought by the plaintiff herein and in one of these cases I have already held this form of declaration bad on demurrer, on the ground that the allegation “that the plaintiff became the holder in due course” of the cause of action was a conclusion of law and not an averment of fact.
+In the instant case, the defendant filed five pleas. The first and second are the general issue pleas; the third, fourth and fifth are special pleas. The plaintiff thereupon .joined issue on the general issue pleas and filed replications to each of the defendant’s third, fourth and fifth special pleas. The defendant demurred to the plaintiff’s replication to the defendant’s fourth plea and to the plaintiff’s replication to the defendant’s fifth plea.
+The defendant contends that his demurrer mounts up to the first error in the pleadings and that that is to be found in the allegation of the declaration which I have already held bad in another ease. The plaintiff contends on the other hand that, inasmuch as the defendant filed the general issue pleas to the declaration, to permit him now to question the substantial sufficiency of the declaration would in effect permit him to plead and demur to the declaration at the same time. It becomes necessary, therefore, to examine the grounds upon which this contention is based.
+It is indisputable that the defendant cannot both plead and demur to the same count of the declaration. The common law principle upon which this rule is based is the fundamental one which, upon pain of duplicity, forbade the defendant to make two answers to the same pleading. Conceivably, these different answers might consist either of different matters of fact or of law or both of fact and law. The common law forbade the making of more than one defense to the same count whether of fact or of law. More than one plea could not be filed to the same count. If a demurrer were filed, no plea could be filed.
+By the Statute of 4 & 5 Anne, Ch. 16, provision was made to remedy the inconvenience resulting from the rule of pleading above described. This statute permitted the defendant, with leave of court, to plead as many several matters as he should think necessary for his defense. By the Maryland Statute (Art. 75, Sec. 10) it is not necessary to obtain leave of court. The statutes do not say that the defendant can both plead and demur, it simply permits him to state as many defenses in separate pleas as he may deem necessary. It is, therefore, still the rule that the defendant cannot at the same time demur and plead.
+The defendant may, however, file two or more pleas. Some of these may terminate in issues of fact to be tried by a jury, others in issues of law which must be determined by the court. When the statute gave to the defendant the right to file additional pleas, this included all of the resulting incidents of such right as they existed at the time of its enactment. At the time of the passage of the Statute of Anne, it had already long been the rule, whenever in the course of the pleading, a demurrer was filed, to give judgment against the party who committed the first fault in pleading, if the fault were such as would have made the pleading bad on general demurrer.
+When the statute gave to the defendant the privilege of pleading two or more pleas, he acquired the right with all of its lawful consequences and one of these was, whenever a demurrer was filed in any one or more of the lines of pleading, to run back upon that line to determine which pleader had committed the first substantial error and relied on by the plaintiff, was approved to have judgment rendered against that party.
+There is a conflict of authority in the point here involved. I think, however, that the better view corresponds with that above presented. The well considered case of The Auburn & Owasco Canal Co. vs. Leitch, 4 Denio 65, which expressly overrules the case of Russell vs. Rogers, 15 Wendell 351, and followed in Shaw vs. Tobias, 3 N. Y. 188, 190.
+This question has not been expressly decided in this State. In several cases, however, the Court of Appeals has examined the declaration as to its sufficiency upon demurrer filed to subsequent pleadings even though general issue pleas had been filed. Gusdorff vs. Duncan, 94 Md. 160; Parks vs. Griffith, 117 Md. 494; Murphy vs. Stubblefield, 133 Md. 23.
+In Gusdorff vs. Duncan, supra, the declaration in trespass q. c. f. was substantially defective. The pleas were the general issue and two pleas in justification; a demurrer was filed to the third plea. The court examined the entire record, found the first substantial fault in the declaration and ruled accordingly. While no point was made in the opinion as to the right of the court so to do in the face of the general issue plea, still the court actually exercised the right, from which the inference is inescapable that it must have held that such right existed.
+I hold consequently that defendant’s demurrers to plaintiff’s replications require me to examine the declaration and, as already indicated, I find it substantially bad. The demurrer mounts up to the declaration and is sustained thereto, with leave to amend in fifteen days.
