@@ -1,0 +1,28 @@
+---
+court: "Baltimore City Court of Common Pleas"
+decided: "1898-12-06"
+citations: ["1 Balt. C. Rep. 777"]
+reporter: "balt-c-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CLARENCE V. KELLOG, USE OR D. ELDRIDGE MONROE, VS. GEORGE M. BOKEE, ET AL."]
+source_url: "https://static.case.law/balt-c-rep/1/cases/0777-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2003520
+cites_cases: ["1 Bland 564", "1 Bland, 559", "13 How. Pr. 462", "2 C. B. 290", "24 Ill., 627", "25 Ala., 315", "31 Ala., 392", "33 N. J. Eq., 188", "5 Ind. 178", "7 Gill 241"]
+---
+
+# Kellog ex rel. Monroe v. Bokee
+
+## Majority (HARLAN, C.J.)
+
+HARLAN, C.J.
+This is a suit by a non-resident of the Slate to the use of a resident of the State, and the question now raised is whether the rule security for costs should be made absolute against the non-resident legal plaintiff, notwithstanding the presence of the resident equitable plaintiff, who under our statute, Code P. G. L., Art. 21, Sec. 8, is liable for costs as if he were the legal plaintiff.
+It was decided in Selby vs. Clayton, 7 Gill 241, 243, upon objection to the competency of a witness at a time when interest, disqualified, that the legal plaintiff was incompetent as a witness because he was responsible for the costs of suit, the security provided by the 10th Sec. of the Act of 1801, Oh. 74 (now codified as above), being cumulative in its character, the successful defendant having the right to proceed against the legal plaintiff for his cost or against the cestui que use. The effect of this decision is that in respect to the costs of suit the legal and equitable plaintiff on the record are to be regarded as joint plaintiffs, both being liable for them; but unless the true meaning and interpretation of our statute as to security for costs, Code1 P. G. L., Art. 24, Sec. 9, is to give a right to security against every party plaintiff who is a non-resident, although there are other plaintiffs who are residents of the State, and liable for costs, it would seem to me the defendant's contention here cannot be sustained.
+Inquiry of the clerks of our common law Courts in Baltimore City fails to disclose any case in which the rule has been laid against a non-resident plaintiff where there was also a resident plaintiff. The practice in the Chancery Courts, under Art. 46, Sec. 152, which declares that, “In all cases in chancery a rule security for costs may be laid at any time before a final decree is passed by any defendant against a plaintiff, non-resident, at the time of filing the bill or becoming so after the filing thereof,” does not justify requiring security where there is a resident plaintiff joined in the suit. Miller’s Eq. Pro., Sec. 289. The Act of 1844, Oh. 219, of which Sec. 152 is a codification, was clearly only declaratory of the common law, as it contained the provision that it should “have effect as if the rule were laid according to the laws and practice now in force.” And Chancellor Bland long ago, in Mayor vs. Tyson, 1 Bland, 559, 564, stated the rule to be, “If there is a co-plaintiff residing within the jurisdiction, security will not be required from the plaintiff resident abroad, the defendant having security from the resident plaintiffs.”
+The exact question raised here seems never to have been determined in our Court of Appeals, but it appears to be well settled elsewhere that the rule does not apply to non-resident plaintiffs who join in an action with residents. 4 Am. & Eng. Enc. of Law, p. 325, citing ex parte Jemison, 31 Ala., 392; Wood vs. Gross, 24 Ill., 627; Jones vs. Knauss, 33 N. J. Eq., 188, and Lewis vs. Lewis, 25 Ala., 315.
+In the latter case the suit was brought, as here, by a non-resident for the use of a resident, and it was held, under the Alabama statute, which does not differ materially from our own, that “if either the beneficial or the nominal plaintiff resides in this State no security for costs can be required.”
+And in a note to Jones vs. Knauss, 33 N. J. Eq. 188, will be found the following statement. “The cases uniformly hold that whore one of several parties is a resident, security cannot be demanded. (Anon., 7 Taunt. 307; Anon.. 2 Cr. & Jer. 81. 1 Dowl. P. C. 300; Bawden vs. Roe, 1 Hodges 316; Thorne] vs. Roelants, 2 C. B. 290; Anon., Penning 886; Jamison’s case, 31 Ala. 392; Thalman vs. Barbour, 5 Ind. 178; Zimmerman vs. Mendenhall, 2 Miles 402; Mayer vs. Tyson, 1 Bland 564) ; even where the resident party is insolvent (McConnell vs. Johnston, 1 East. 431; Raddick vs. Sinnott, 1 Hud. & Bro. 204; Peterson vs. Smith, 5 Hal. 192; Pfister vs. Gillespie, 2 John’s case 109; Ten Broek vs. Reynolds, 13 How. Pr. 462).”
+It is not necessary to decide in this case the effect of the insolvency of the resident plaintiff, because there is no suggestion that the equitable plaintiff here is not financially responsible, but I have examined each of the cases cited as sustaining the above quoted statement of the law, except, the case in 1 Hodges, which report appears not to be in our Law Library, and they seem to me to fully justify the author’s conclusion.
+I am of the opinion that the reason and spirit of our statute are fully gratified when the defendant has a resident plaintiff to whom he can look for the costs, and that its terms are not such as to confer the right to have security from any party plaintiff who is not a resident of the State when the motion is made.
+The application of the defendants to have the rule security for costs made absolute as against Clarence V. Kellogg, the legal plaintiff, will accordingly 1)6 denied, and it is so ordered.
