@@ -1,0 +1,41 @@
+---
+court: "Baltimore City Court of Common Pleas"
+decided: "1927-06-24"
+citations: ["4 Balt. C. Rep. 606"]
+reporter: "balt-c-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WATKINS COMPANY VS. BANNON & FLYNN."]
+source_url: "https://static.case.law/balt-c-rep/4/cases/0606-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2009984
+cites_cases: ["106 Pac. 1072", "113 Ind. 521", "114 Md. 110", "13 Ala. 338", "134 N. C. 415", "146 Md. 137", "177 N. W. 462", "209 Mass. 563", "215 S. W. 638", "22 Mich. 479", "29 Ohio 467", "46 S. E. 979", "51 Mich. 563", "58 N. Y. 315", "60 So. 1001", "67 L. J. Q. B. 224", "96 So. 800"]
+---
+
+# Watkins Co. v. Bannon & Flynn
+
+## Majority (O’DUNNE, J.)
+
+O’DUNNE, J.
+The legal question involved in this case, is, as far as I know, new in the law of Maryland; that is, has not been passed on by the Court of Appeals, and T am not familiar with what may have been the nisi prius rulings.
+The question is: To what extent, if at all, may a contract of guaranty duly signed by two guarantors with subscribing witnesses to their signatures, he impeached by them because of a fraud and misrepresentation in obtaining their signatures, where the suit is brought against (hem by the party in whose favor the guaranty was given, and who is in no wise privy to the fraud or misrepresentation and who sustained loss on the contract which they guaranteed.
+The ruling on the main question will therefore apply in the rulings on (he various questions objected to and admitted subject to exception, and now made subjects of various motions to strike out various specific answers. It applies likewise to the rulings on the prayers.
+Each of the separate motions (without now enumerating them) to strike out the answers of the defendants as to the statements Mrs. Williams made to them as an inducement to them to sign what was in fact a contract of guaranty instead of a character recommendation for her son, will be granted, on the ground that, in my judgment, it does not in law, as applied l.o the facts of this case, constitute a valid defense to the obligation sued upon.
+Cases of fraud or misrepresentation committed by A. toward B. as an inducement to get B. to sign a contract, where no third person, not a party to the fraud is involved, present an entirely different question.
+Such eases have frequently come before our Court of Appeals and such so-called contracts have been set aside.
+Leading cases are Stouffer vs. Alford, 114 Md. 110; Councill vs. Sun Ins. Office, 146 Md. 137, 150.
+The authorities on the question here presented are not harmonious. But, on the whole, it seems to me that both equity and public policy are rather on the side of those decisions that are based on the doctrine that where loss must fall upon one of two innocent parties, he who by his carelessness and indifference to consequences of his ill-considered action, has made it possible for the loss to be sustained, should be the one to bear that loss. Bromberg vs. Fidelity Co., 13 Ala. 338, 36 Southern 622; 28 C. P. 927; Lucas vs. Owens, 113 Ind. 521; Casoni vs. Jerome, 58 N. Y. 315.
+Elliott on Contracts (1913), Yol. 5, Sec. 3938, p. 13, says:
+“* * * but if the principal practices a fraud on the surety, of which the creditor has no knowledge, even though such fraud induces the surety to make the contract, the surety will not, on that account, be released from his liability to the creditor, nor will the surety be relieved if the fraud be practiced by a third person.”
+Owan vs. Roberts, 134 N. C. 415, 46 S. E. 979, says: “The liability of the principal is founded upon the principle that where one of two persons must suffer loss by the misconduct or fraud of a third person, or by his breach of confidence, the loss should fall upon who first reposed that confidence, or who by his negligence, made it possible for the loss to occur, rather than on the innocent third party.”
+Somewhat to the same effect is Atlas Shoe Co. vs. Bloom, 209 Mass. 563.
+See also 12 R. C. L., p. 1075; Watkins Medical Co. vs. Hargett, 96 So. 800 Ala.; Watkins Medical Co. vs. Coombes, 106 Pac. 1072; Watkins vs. Montgomery, 215 S. W. 638; Watkins vs. Hunt, 177 N. W. 462 Neb.; Watkins vs. Hargett, 95 So. (Ala.) 811. This case seems to distinguish Raleigh Medical Co. vs. Wilson, in 60 So. 1001.
+These seem to me the better reasoned cases notwithstanding the high authority of such eases as Foster vs. Mackinnon, L. R. 4, C. P. 711, as affirmed in Lewis vs. Clay, 67 L. J. Q. B. 224.
+But in this latter ease the jury expressly negatived negligence in the signing of the promissory note. It seems to me the negligence of the defendants in this case in the manner of their execution of the contract of guaranty, cannot on the evidence be negatived.
+Michigan in Gibbs vs. Linsbury, 22 Mich. 479, seems to be an authority contrary to the plaintiff’s contention.
+But later in Soper vs. Peck, 51 Mich. 563, that same Court seems to recognize the force of the element of negligence in the execution of the instrument sued upon.
+See also same reasoning in DeCamp vs. Hamma, 29 Ohio 467.
+My conclusion on the whole is to grant the plaintiff’s specific motion to strike out the answers of the defendants and other witnesses admitted subject to exception, in as far as the same give as excuse for signing the contract of guarantee that the mother of Williams in submitting the guarantee to them for signature in the presence of witnesses, all of whom could read and write, told them it was a mere character reference for her son so he could get a job. The slightest inspection of the paper, formal in character as it was, with the words, “first surety sign here,” appearing right above their names, would have satisfied them that it was not a mere character reference at all. Their negligence in making no examination, no inquiry of others present made possible the loss, to say nothing of the subsequent registered letter confirming their acceptance as guarantors of the contract of Williams, and the subsequent letter calling on them to pay the default, to neither of which they paid the slightest attention or made any inquiry or any response to the plaintiff so communicating with them.
+Defendants’ counsel contends that the question of negligence vel non, should at least be left to the jury as a question of fact for them to pass upon. This may be so. Ordinarily such is the ease. Here I think it is not. In the determination of the question of the “contributory negligence” in an ordinary damage suit, the Court of Appeals in a recent and as yet unreported case of Lozzi vs. Pa. R. R. Co. (Daily Record, March 21, 1927), said, “unless the plaintiff’s conduct was so manifestly negligent that rational minds could not differ as to its imprudence, the issue should be left to the jury for decision.” I think this is a good yardstick by which to measure the negligence of the defendants in signing the contract of guaranty sued upon. In my judgment rational minds cannot differ as to the imprudence of their action under the attendant circumstances. I therefore think it would be idle and illegal to speculate upon the relative amount of sympathy of the jury in this case with the easy-going, good-hearted, careless and imprudent action of the defendants, and their obliviousness to legal consequences of their improvident action. I am either right or wrong in the views I take, but I prefer to try to make the issue clear cut, and the defendant is by these rulings practically relegated to his right of appeal, as he is stripped of any defense thus far presented. As the question is new in this jurisdiction, it is hoped the case may go to the Court of Appeals in order that the law may hereafter be definitely established in Maryland.
+Note — This ruling is made in writing, not read in the presence of the jury, merely filed in the case, and the jury instructed to disregard those answers of the defendants and other witnesses admitted subject to exception, relative to what Mrs. Williams said to them or in their presence as to the nature of the paper she wanted them to sign and her reasons for so doing.
+Note — The verdict was for plaintiff under instructions of Court.
