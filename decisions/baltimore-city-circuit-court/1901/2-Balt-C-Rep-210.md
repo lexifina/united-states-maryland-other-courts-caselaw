@@ -1,0 +1,32 @@
+---
+court: "Baltimore City Circuit Court"
+decided: "1901-11-12"
+citations: ["2 Balt. C. Rep. 210"]
+reporter: "balt-c-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE NATIONAL BANK OF BALTIMORE VS. MARGARET M. CHILD ET AL."]
+source_url: "https://static.case.law/balt-c-rep/2/cases/0210-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2005957
+---
+
+# National Bank v. Child
+
+## Majority (RITCHIE, J.—)
+
+RITCHIE, J.—
+The respondents in this case are Margaret M. Child and her parents Robert D. and Emma Child.
+On February 24th, 1897, Robert D. Child and his wife Emma gave to the plaintiff their joint note for $400’ payable on demand, and the said Emma by the terms of said note charged her separate estate with the payment of the same.
+At that time Mrs. Child had no separate estate, but under the will of the late George A. Reinicker, who died in November, 1899, she became entitled to the one-half of a $300 ground rent on Eutaw Place.-
+The president of the bank testifies that, in an interview with Mrs. Child in January or the first part of February, 1900, he told her that the bank would “let the note remain” if she would secure its payment by a pledge of her interest in this ground rent; that she said she was willing to do this; that he suggested the execution of an absolute deed with an acknowledgment by the bank that it was held only as security; that she acquiesced and asked him to prepare and send her such a deed. The bank did not send her the deed until April 11th, 1900, and objection was then made to the form of it and it was not executed.
+Meanwhile on March 27th, Mrs. Child mortgaged the ground rent for $1,500, and with part of the proceeds paid off a mortgage of $1,100 on the premises No. 1521 Mt. Royal avenue, then and now standing in the name of her daughter, Margaret M. Child, and on June 1st, 1900, she sold her remaining interest in the ground rent for about $1,400.
+The plaintiff heard of the mortgage of the ground rent soon after it was made and also, some weeks before her remaining interest was sold; heard that Mrs. Child was trying to sell it, and thereupon instituted a suit at law with the view of obtaining the lien of a judgment on her remaining interest, but took no proceedings to enforce her alleged agreement to secure the payment of said note, or to assert any lien against her remaining interest in said ground rent.
+The bill charges that the plaintiff as against Mrs. Child had an equitable lien on said ground rent by reason of its alleged forbearance and the promise of Mrs. Child, and that the mortgage of the same, and the payment out of the proceeds thereof, of the mortgage on the Mt. Royal avenue property, and the sale of the remaining interest in said ground rent, were made by Mrs. Child with intent to delay, hinder and defraud her creditors, and that the plaintiff therefore has an equitable lien on the Mt. Royal avenue property to the extent of its note, and the bill prays that said property may be sold for the payment of the same. Neither the mortgage of the ground rent, or the sale of the remaining interest therein, is open to attack, and whatever right to relief, if any, the plaintiff may have, must be in respect of the payment of this $1,100 mortgage on the Mt. Royal avenue property.
+The relation of Mrs. Child to the Mt. Royal avenue property and the status of that property are as follows : In 1889 Margaret A. Hiss conveyed a farm in Baltimore county to the defendant, Robert 11. Child, in trust that the rents and profits should be paid over by him to his wife Emma, to be by her applied for the benefit of their six children. This farm was used as the home of the family for some years.
+In 1899 Robert D. Child, under his powers as trustee, exchanged the farm for this property on Mt. Royal avenue, which was then subject to this mortgage of $1,100, and he had the deed for the same made in the name of his daughter Margaret, one of the defendants, who is now holding the property in trust for herself and the five other children. None of these five other children are parties to this proceeding and three of them are infants. The family moved into the property and occupied it as their home. This mortgage became due in March, 1900; and the mortgagee threatened to foreclose unless it was paid off. Mrs. Child then created the $1,500 mortgage on her ground rent, and out of the proceeds paid off the $1,100 mortgage.
+Several important questions arise on the facts stated, but the determination of one of them will be decisive of the case. Unless the payment of this $1,100 mortgage by Mrs. Child was made with intent to delay, hinder or defraud her creditors, the plaintiff is not entitled to any lien or claim against this property.
+The testimony shows that at the time this mortgage was paid off, Mr. and Mrs. Child were indebted to the trust estate in the sum of about $1,100, and that this payment was in liquidation of what they owed; that it was made by her also to save the common home and to prevent the sacrifice of her children’s interests by a foreclosure sale; and, especially, it appears that after the mortgage on the ground rent was made Mrs. Child still had left an interest in the said rent worth about $1,400, three times the amount of the plaintiff’s claim. The record does not show that Mrs. Child, after the payment of what was due by her to the trust estate, owed any other debt than the note in question.
+The payment of this mortgage was, therefore, not made by Mrs. Child without good consideration, or with intent to delay, hinder or defraud her creditors. Had the plaintiff filed a bill to charge the Mount Royal avenue property with the payment of this note, after the mortgage on the ground rent had been created and the mortgage on Mount Royal avenue paid off, it could not have been maintained, because, if for no other reason, the remaining interest of Mrs. Child in the ground rent was ample for the payment of this debt, or to meet any right of lien the plaintiff might have had.
+The fact that the plaintiff failed to take any proceedings against this remaining interest before it was sold, and thus lost any right it might have had against that specific property, cannot furnish a ground for the impeachment of a transaction otherwise not open to impeachment.
+The bill must be dismissed.
