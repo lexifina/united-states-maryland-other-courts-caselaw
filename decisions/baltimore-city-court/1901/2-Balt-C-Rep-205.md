@@ -1,0 +1,66 @@
+---
+court: "Baltimore City Court"
+decided: "1901-10-26"
+citations: ["2 Balt. C. Rep. 205"]
+reporter: "balt-c-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["D. FAHNESTOCK VS. MAYOR AND CITY COUNCIL ET AL."]
+source_url: "https://static.case.law/balt-c-rep/2/cases/0205-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2005921
+cites_cases: ["1 Cranch 299", "1 Fed. Rep., 840", "103 Cal., 69", "105 U. S., 127", "107 Fed. Rep., 89", "107 Ill., 355", "109 N. Y. 593", "110 Ill., 146", "14 Mo. App., 239", "14 Mo., App., 239", "142 U. S. 12", "146 U. S. 1", "15 Fed. Rep. 789", "167 N. Y., 1", "22 Md. 468", "4 Abb., N. C., 70", "45 Md., 361", "5 Cranch 22", "60 How. Pr. 426", "61 Pac. Rep. 494", "68 Cal., 254", "78 Cal., 355", "89 N. Y., 328", "93 Pa. St. 55", "93 Pa. St. 66", "94 U. S., 523", "96 N. Y., 24", "99 Cal., 162"]
+---
+
+# Fahnestock v. Mayor
+
+## Majority (STOCKBRIDGE, J.—)
+
+STOCKBRIDGE, J.—
+The appeal in this case presents for the action of the Court a question new in this State, and one which has not often been raised elsewhere, namely, whether membership in a stock exchange is property, liable to assessment and taxation.
+There are in reality two questions involved in this — first, whether a right of membership of this character is property at all, and in the second place, if it be held to be property, whether it is such property as is embraced within the provision of the tax laws of this State.
+With regard to the first question there has been some diversity of decision, for the most part growing out of a loose use of language in decided cases with regard to the term “property.” In two cases, both in the State of Pennsylvania, an incorporeal right of this character has been decided not to be property.
+Thompson vs. Adams, 93 Pa. St. 55.
+Pancoast vs. Gowen, 93 Pa. St. 66.
+While in a number of other cases a right of this character has been as unequivocally held to be so.
+Hyde vs. Woods, 94 U. S., 523.
+Powell vs. Waldron, 89 N. Y., 328.
+Eliot vs. Merchants’ Ex., 14 Mo., App., 239.
+In re Ketchum, 1 Fed. Rep., 840.
+In re Werder, 15 Fed. Rep. 789.
+In re Page, 107 Fed. Rep., 89.
+Landheim vs. White, 67 How. Pa., 467.
+Ritterband vs. Baggett, 4 Abb., N. C., 70.
+Platt vs. Jones, 96 N. Y., 24.
+There is still a third class of cases which hold a right of this character, property in only a limited sense, partaking somewhat of the nature of a personal privilege.
+Sparhawk vs. Yerkes, 142 U. S. 12.
+Belton vs. Hatch, 109 N. Y. 593.
+Clute vs. Loveland, 68 Cal., 254.
+The status of such a right has been most frequently raised in cases of bankruptcy, or where it was sought to subject such a right to the claim of creditors of the persons entitled to membership, and in these cases, rights, such as membership in a stock exchange, have been held uniformly property, but property in a qualified sense, that is, not property in the sense that it can be reached by execution under a writ of fieri facias, but property which would pass to the assignee in bankruptcy, or which in the event of a judgment being obtained against the holder of the seat, and that judgment being unsatisfied upon fieri facias issued, the seat has been made liable to the claims of the creditors of such members through the interposition of the Equity Court and the medium of a receiver.
+Grocers Bank vs. Murphy, 60 How. Pr. 426.
+Eliot vs. Merchants Ex. 14 Mo. App., 239.
+Habenicht vs. Lissak, 78 Cal., 355.
+Weaver vs. Fisher, 110 Ill., 146.
+Barclay vs. Smith, 107 Ill., 355.
+Lowenberg vs. Greenbaum, 99 Cal., 162.
+Ager vs. Murray, 105 U. S., 127.
+In view of the overwhelming weight of authority, the first question, as to whether or not such a right is or is not property in any sense, must be answered in the affirmative. It can not be held now to be a mere personal privilege, for a personal privilege terminates with the life of the party enjoying such a privilege, but as appears from the agreed statement of facts, an interest in the proceeds of such membership survives after death, and, subject to the claims of the members of the exchange, is payable to the personal representatives of a member. This is more, therefore, than an ordinary personal privilege, or as was said in Sparhawk vs. Yerkes, 142 U. S. 12, previously cited, “While the property is peculiar and in its nature a personal privilege yet such value as it may possess notwithstanding the restrictions to which it is subject is susceptible of being realized by creditors.”
+II. Is then a right of this character, which in a limited and qualified sense is property, within the scope of the statutes of this State relating to taxation?. That is,-does it possess the elements requisite to bring it within the 15th section of the Bill of Rights and tlie statutes with regard to taxes? By the second section of Article 81 of the Code of 1860, after enumerating certain specific classes of property, the section concludes in these words, “and all other property of every description whatsoever shall be liable to assessment and taxation.” By the same section of the Article in the Code of 1888 the classes of property specifically enumerated are somewhat increased over the Code of 1860, and then after the enumerated classes, the language is, “and all other property of every kind, nature and description within this State * * * shall be assessed and taxed as the property of such respective owners.”
+Section 2, of Chapter 120, of the Acts of 1896, enumerates with still further particularity than does the Code of 18S8, the several classes of property to be assessed and taxed, and then concludes with the language “and all other property of every kind, nature and description within this State * * * shall be valued and assessed for the purposes of State, county and municipal taxation to the respective owners thereof.”
+It is thus apparent that ever since the adoption of the Code of 1860 the provision has been substantially the same, designed to render amenable to the taxing power all property within the State. Yet this purpose, consistently pursued through a long series of years, with only slight variation of language in the successive statutes, does not mean that every right, or even that every right having a value, is necessarily a subject matter for taxation. Thus, a franchise is a right, and is often a right of great value, and is in a sense property, yet such a right was expressly declared in the State vs. P. W. & B. R. R., 45 Md., 361, “not property within the meaning of that term as used in the Bill of Rights.”
+It is conceded that now for the first time is the attempt made upon the part of the city to subject a right of membership in the stock exchange to the tax laws. It therefore follows that by the uniform, unvarying construction placed upon those laws for a period of over forty years by the law officers of the city, and the officials of the tax department, this right has not been construed as one amenable to the taxing statutes, and no principle is more familiar than that a contemporaneous understanding of a statute corroborated by an undeviating usage for a long number of years, must govern its judicial construction.
+Stuart vs. Laird, 1 Cranch 299.
+McKeen vs. DeLancy’s Lessee, 5 Cranch 22.
+McPherson vs. Blacker, 146 U. S. 1.
+Harrison vs. Harrison, 22 Md. 468.
+What then are the classes of property which are included under the language before quoted in the successive taxing statutes? It is probably to broad a statement to say, that they embrace only tangible property, and yet there ijs much in the act which lends color to such a position. By way of illustration, take the provisions of the Code for the enforcement of taxes levied -upon personal property, where it is provided, Article 81, Section 59, that whenever the collector makes a sale of personal property, as a means of enforcing the tax, that he shall deliver possession thereof to the purchaser. That would be a manifest impossibility in the case of a right of this character, as it would necessarily involve the idea that a right of this nature can pass by judicial sale, and if so, then it might be sold by the sheriff in an execution of a writ of fieri facias, yet as has been earlier observed, many of the very cases which hold such right of membership to be property, at the same time declare that it is not property liable to judicial sale. From its very nature such a right is insusceptible of manual delivery, therefore in no manner could the provision referred to be made applicable.
+But the same section goes on further to provide, that if for any cause the collector can not deliver possession, he may nevertheless sell, and the purchaser may recover possession by an action of replevin, yet it is absolutely inconceivable how such right could be made a subject of a replevin suit, and even assuming that there were no insurmountable natural obstacles in the way, such a proposition must lead to the ultimate conclusion that the property in such a right is liable to judicial process, and if to one judicial process then even to a judicial process culminating in its seizure and sale, a conclusion which cannot be supported either by reason or authority.
+The precise question now involved appears to have been presented in the Courts of this country but twice.
+The first time in 1894, in the case of San Francisco vs. Anderson, 103 Cal., 69, where a similar attempt being made to assess a seat in the San Francisco Stock Board, the Court of that State declared that the right was “too impalpable to go into any category of personal property.” A second holding, and to the same effect, was that of the Supreme Court of Colorado, in the Board of Commissioners vs. The Rock Mountain News Co., 61 Pac. Rep. 494, decided in 1900, in which case in very elaborate opinion, the Colorado Court holds, in an analogous case, that the right of the defendant as a member of a Press Association for the gathering of news, was not one which could be valued or taxed under the taxing-statute of that State.
+The case of People vs. Feitner, 167 N. Y., 1, decided in 1901, is not directly in point, since that case depended largely upon the question of residence or nonresidence of the owner of the seat which was sought to be taxed, but from the abstract of the briefs of the counsel it appears to have been there assumed by both sides that a membership in the New York Stock Exchange was not a subject of assessment, where the owner of it was a resident of the State of New York.
+Analogies are not wanting. One, which is referred to in some of the cases, is that of a licensee for the sale of liquor’s. The right.to sell may be one of value, it is not transferable except with the assent of the license authorities, and yet it has never been claimed, and it is not understood to be now claimed, that the right of such licensee, which with the assent of the proper board he may transfer to another, is property such as to make it liable to assessment and taxation.
+So in the case of market stalls in this city; the holder of a market stall pays to the city a license fee annually, just as the stock broker pays to the State a broker’s license; the one sells his wares in the city markets, the other upon the Stock Board; the stall of the one is transferable only with the assent of the City Comptroller, the seat of the other with the assent of the governing committee of the Exchange; the right in the case of the market stall can be sold, and frequently is sold, by his administrator, it can be reached by his creditors; in the case of the Stock Board it may be disposed of by the governing- committee of the board, and the proceeds, after the payment of debts dire to other members of the Exchange, paid over to his personal representatives.
+Yet it is not pretended that a holder of a market stall, whose right of property is as full and in many ways more complete than is that of a member of the stock exchange, is subject to valuation and taxation upon it. So, too, in many of the churches of this city a person desiring a pew buys the same, to use the familiar expression, from an antecedent holder; what he buys is merely a right to occupy certain space for worship; he pays an annual rental to the church analogous to the license fee; it is transferable only with the assent of the proper officers of the church organization; it is property in the sense of having value; it descends to his heirs or representatives, yet it has never been suggested that such right, although it may be one of great value, and certainly is more than a mere personal privilege, was liable to assessment under the taxing power of this State.
+Following, therefore, what has been the uniform contemporaneous construction of the statute, together with the ai>parently unvarying line of authorities, judgment will be entered for the appellant.
+ORDER.
+This case having been argued and submitted, it is this 26th day of October, 1901, adjudged and ordered by the Baltimore City Court, that the assessments made by the Appeal Tax Court of the membership of the petitioner and appellant in the Baltimore Stock Exchange, to wit: $3,500 for the year 1900, and $10,000 for.the year 1901, be and the same are hereby vacated and annulled.
