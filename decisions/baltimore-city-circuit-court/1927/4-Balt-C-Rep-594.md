@@ -1,0 +1,30 @@
+---
+court: "Baltimore City Circuit Court"
+decided: "1927-04-27"
+citations: ["4 Balt. C. Rep. 594"]
+reporter: "balt-c-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GEORGE W. GARDNER VS. EMMA GARDNER."]
+source_url: "https://static.case.law/balt-c-rep/4/cases/0594-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2009912
+cites_cases: ["125 Md. 623", "141 Md. 416"]
+---
+
+# Gardner v. Gardner
+
+## Majority (STANTON, J.)
+
+STANTON, J.
+The parties to this cause were married November 11th, 1923. The husband is a gentile, and about three years younger than the wife, who is a Hebrew. At the time of the marriage the husband was twenty-three, and the wife twenty-six years of age. They had been indulging in sexual intercourse for three or four months, which was the entire period that the husband says he knew his wife, before marriage. The wife says they knew each other a year and three or four months, and that the sexual relations did not begin for sometime after they became acquainted. They met by reason of the fact that the husband, at the time, was a conductor on a street car line, and she handed him a five dollar bill, out of which she intended to pay her carfare. This brought about a conversation that led to his subsequently meeting her on street corners, and other appointed places. He never visited her at her home. The explanation given by the wife for this practice was the objection she feared from her mother, because of the difference in religion. He has never met her family.
+About two or three weeks before the marriage she met him and told him she was pregnant. He consulted an older man, who was a friend of the husband, and he was advised by this man that if he had gotten her in trouble, he had better marry her. The husband claims she was insistent that he marry her, saying if he did not she would have him arrested. He claims he was inexperienced and young and in order to avoid arrest for bastardy and save disgrace to his family, some members of which were sickly, and likely to he seriously affected by any such happening, he complied with her demands. He claims it was understood and agreed that he was only marrying her to save disgrace to both, and that he was not expected to live with her. The wife obtained the license at Ellieott City, and bought the ring. She testifies that the husband gave her the money for both purchases. The husband denies that he gave her the money. They met by appointment on a certain Saturday night, and in company with the friend of the husband who had acted as his advisor, they went to some house on Madison avenue in the City of Baltimore, which was the home of a minister whose name could not be recalled, but were unable to be married, because the license was issued in Howard County. All three met again the next day which was Sunday, and went to Ellieott City, where the marriage was solemnized. Returning they each went to their respective homes. Although the wife claimed to be pregnant at the time of the marriage, no child has ever been born. She testifies that two or three weeks after the marriage there was a miscarriage, and that she was in a house in West Baltimore, where she remained one week. She cannot give the name of the street, or the location of the house, nor mentioned anyone who attended her, to sustain her in her claim as to this occurrence.
+The husband says he has never visited her, nor has he ever cohabited with her since the marriage, and that his only communication with her was when she. wrote demanding support money. The wife claims that they have met as before the marriage, and that they have had sexual intercourse. She produces witnesses to sustain her statements as to their associations since the marriage. These witnesses are not so entirely satisfying as to justify the finding that the wife is sustained beyond doubt on this point, although the probabilities may he with the wife.
+Within six weeks after the marriage the wife was in the office of the State’s Attorney of Baltimore City, seeking support. She does not say who paid the expense incident to the miscarriage, if there was any expense. Erom that time to the present she has been persistent in her quest for support, and he has been paying varying amounts under Court orders, instigated by her, in which proceedings he did not have counsel.
+He now, on November 18th, 1920, for the first time claims that the marriage was brought about by false misrepresentation, fraud and duress, on the part of the defendant.
+The claim of duress is without force. The husband was a willing party to two separate efforts to effect a marriage.
+“Where a man marries to escape arrest or imprisonment for seduction or bastardy, he cannot avoid the marriage on the ground of duress, nor is a marriage induced by threats of lawful prosecution, arrest or imprisonment, to redress or punish a wrong; open to impeachment on that ground. Wimbrough vs. Wimbrough, 125 Md. 623-24; Owings vs. Owings, 141 Md. 416.
+The husband claims false misrepresentation about pregnancy. In the cases above quoted children were born, or were about to be born. In this case no child has been or will be born, as the result of the alleged pregnancy in 1923. The wife testifies that but for the claim of pregnancy on her part, they would never have been married. It would appear to be a loveless marriage, with no prospect of the parties living together.
+If the Court could act on what might be the better course to promote the welfare of the parties to this cause, it would be best to annul the marriage, but the wife is standing on her rights, and is contesting the effort of the husband to annul the marriage.
+“Inducing marriage by falsely pretending pregnancy, the husband having previously had intercourse with her, is not invalidating fraud.” Harlan on Domestic Relations, pages 11 and 12, and cases cited.
+It is only because the Court must give effect to what it regards as the settled law governing this case, that a decree will be signed dismissing the bill of complaint, plaintiff to pay costs.
