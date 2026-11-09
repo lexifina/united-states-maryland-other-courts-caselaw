@@ -654,7 +654,7 @@ reference	path
 2 Balt. C. Rep. 118	decisions/baltimore-city-circuit-court/1901/2-Balt-C-Rep-118.md
 2 Balt. C. Rep. 119	decisions/baltimore-city-circuit-court/1900/2-Balt-C-Rep-119.md
 2 Balt. C. Rep. 124	decisions/baltimore-city-court/1901/2-Balt-C-Rep-124.md
-2 Balt. C. Rep. 127	decisions/baltimore-city-orphans-court/1901/2-Balt-C-Rep-128.md
+2 Balt. C. Rep. 127	decisions/baltimore-city-orphans-court/1901/2-Balt-C-Rep-127.md
 2 Balt. C. Rep. 128	decisions/baltimore-city-orphans-court/1901/2-Balt-C-Rep-128.md
 2 Balt. C. Rep. 129	decisions/baltimore-city-circuit-court/1901/2-Balt-C-Rep-129.md
 2 Balt. C. Rep. 13	decisions/baltimore-city-circuit-court/1899/2-Balt-C-Rep-13.md
@@ -2074,8 +2074,8 @@ reference	path
 4 H. & McH. 62	decisions/general-court-of-maryland/1797/4-H-McH-62.md
 4 H. & McH. 63	decisions/general-court-of-maryland/1797/4-H-McH-63.md
 4 H. & McH. 65	decisions/general-court-of-maryland/1797/4-H-McH-65.md
+4 H. & McH. 70	decisions/general-court-of-maryland/1797/4-H-McH-70--cap-1750338.md
 4 H. & McH. 70	decisions/general-court-of-maryland/1797/4-H-McH-70.md
-4 H. & McH. 70	decisions/general-court-of-maryland/1797/4-H-McH-89.md
 4 H. & McH. 71	decisions/general-court-of-maryland/1797/4-H-McH-71.md
 4 H. & McH. 72	decisions/general-court-of-maryland/1797/4-H-McH-72--cap-1750323.md
 4 H. & McH. 72	decisions/general-court-of-maryland/1797/4-H-McH-72.md
@@ -2550,6 +2550,7 @@ cap-1683844	decisions/high-court-of-chancery-of-maryland/1849/1-Md-Ch-382.md
 cap-1683845	decisions/high-court-of-chancery-of-maryland/1848/1-Md-Ch-363.md
 cap-1683846	decisions/high-court-of-chancery-of-maryland/1849/1-Md-Ch-388.md
 cap-1683847	decisions/high-court-of-chancery-of-maryland/1848/1-Md-Ch-290.md
+cap-1683848	decisions/high-court-of-chancery-of-maryland/1850/3-Md-Ch-508.md
 cap-1683849	decisions/high-court-of-chancery-of-maryland/1848/1-Md-Ch-208.md
 cap-1683850	decisions/high-court-of-chancery-of-maryland/1849/1-Md-Ch-466.md
 cap-1683851	decisions/high-court-of-chancery-of-maryland/1848/1-Md-Ch-196.md
@@ -2640,6 +2641,7 @@ cap-1685065	decisions/high-court-of-chancery-of-maryland/1851/2-Md-Ch-418.md
 cap-1685066	decisions/high-court-of-chancery-of-maryland/1849/2-Md-Ch-407.md
 cap-1685067	decisions/high-court-of-chancery-of-maryland/1849/2-Md-Ch-534.md
 cap-1685068	decisions/high-court-of-chancery-of-maryland/1850/2-Md-Ch-468.md
+cap-1685069	decisions/high-court-of-chancery-of-maryland/1850/3-Md-Ch-365.md
 cap-1685070	decisions/high-court-of-chancery-of-maryland/1850/2-Md-Ch-303.md
 cap-1685071	decisions/high-court-of-chancery-of-maryland/1851/2-Md-Ch-190.md
 cap-1685072	decisions/high-court-of-chancery-of-maryland/1849/2-Md-Ch-1.md
@@ -2659,6 +2661,7 @@ cap-1687159	decisions/high-court-of-chancery-of-maryland/1850/3-Md-Ch-547.md
 cap-1687160	decisions/high-court-of-chancery-of-maryland/1850/3-Md-Ch-65.md
 cap-1687161	decisions/high-court-of-chancery-of-maryland/1851/3-Md-Ch-381.md
 cap-1687162	decisions/high-court-of-chancery-of-maryland/1850/3-Md-Ch-365.md
+cap-1687163	decisions/high-court-of-chancery-of-maryland/1849/2-Md-Ch-430.md
 cap-1687164	decisions/high-court-of-chancery-of-maryland/1850/3-Md-Ch-488.md
 cap-1687165	decisions/high-court-of-chancery-of-maryland/1850/3-Md-Ch-392.md
 cap-1687166	decisions/high-court-of-chancery-of-maryland/1850/3-Md-Ch-508.md
@@ -2853,6 +2856,7 @@ cap-1750333	decisions/general-court-of-maryland/1798/4-H-McH-217.md
 cap-1750335	decisions/general-court-of-maryland/1797/4-H-McH-89.md
 cap-1750336	decisions/general-court-of-maryland/1798/4-H-McH-222.md
 cap-1750337	decisions/provincial-court-of-maryland/1721/4-H-McH-481.md
+cap-1750338	decisions/general-court-of-maryland/1797/4-H-McH-70--cap-1750338.md
 cap-1750339	decisions/general-court-of-maryland/1799/4-H-McH-422.md
 cap-1750341	decisions/general-court-of-maryland/1799/4-H-McH-351.md
 cap-1750342	decisions/general-court-of-maryland/1799/4-H-McH-421.md
@@ -3339,6 +3343,7 @@ cap-2005898	decisions/baltimore-city-court-of-common-pleas/1908/2-Balt-C-Rep-532
 cap-2005899	decisions/baltimore-city-court-of-common-pleas/1906/2-Balt-C-Rep-385.md
 cap-2005900	decisions/baltimore-city-court/1908/2-Balt-C-Rep-526.md
 cap-2005901	decisions/baltimore-city-circuit-court/1907/2-Balt-C-Rep-482.md
+cap-2005902	decisions/baltimore-city-orphans-court/1901/2-Balt-C-Rep-127.md
 cap-2005903	decisions/baltimore-city-circuit-court/1904/2-Balt-C-Rep-323.md
 cap-2005904	decisions/baltimore-city-circuit-court/1906/2-Balt-C-Rep-434.md
 cap-2005905	decisions/baltimore-city-circuit-court/1902/2-Balt-C-Rep-244.md
